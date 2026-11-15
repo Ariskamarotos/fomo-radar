@@ -1,7 +1,12 @@
 import unittest
-from scripts.x_replies import parse_replies
+from scripts.x_replies import parse_replies, relevant
 
 class ReplyTests(unittest.TestCase):
+    def test_keyword_filter(self):
+        self.assertTrue(relevant('post good things and I will buy!'))
+        self.assertTrue(relevant('new token $ROCKSTAR'))
+        self.assertFalse(relevant('feel you bro'))
+
     def test_only_replies(self):
         posts = [
             {"id": "123", "text": "post good things and I will buy!", "referenced_tweets": [{"type": "replied_to", "id": "122"}]},
