@@ -51,29 +51,38 @@ def main():
     new_state = dict(previous)
     all_signals = []
     failures = []
+    account_status = {}
     for username in USERS:
         try:
             user = request("/users/by/username/" + urllib.parse.quote(username) + "?user.fields=id", bearer).get("data") or {}
             uid = user.get("id")
             if not uid:
                 failures.append({"account": username, "reason": "user_not_found"})
+                account_status[username] = {"status": "user_not_found", "postsReturned": 0}
                 continue
             params = {"max_results": "10", "tweet.fields": "created_at,referenced_tweets"}
             if previous.get(username):
                 params["since_id"] = str(previous[username])
             payload = request("/users/" + urllib.parse.quote(uid) + "/tweets?" + urllib.parse.urlencode(params), bearer)
             posts = payload.get("data") or []
-            all_signals.extend(parse_replies(username, posts))
+            replies = parse_replies(username, posts)
+            all_signals.extend(replies)
+            account_status[username] = {"status": "ok" if posts else "empty_feed",
+                                        "postsReturned": len(posts), "repliesFound": len(replies),
+                                        "latestPostId": str(max(int(p["id"]) for p in posts)) if posts else None,
+                                        "cursorBefore": previous.get(username),
+                                        "note": "No posts returned; cannot confirm coverage" if not posts else None}
             if posts:
                 new_state[username] = str(max(int(p["id"]) for p in posts))
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, ValueError, KeyError) as exc:
+            account_status[username] = {"status": "error", "postsReturned": 0}
             failures.append({"account": username, "reason": type(exc).__name__,
                              "httpStatus": getattr(exc, "code", None)})
     # Preserve previous cursors on failure. Never print credentials.
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"checkedAt": now, "accounts": list(USERS),
-        "signals": [s for s in all_signals if s["tokenRelated"]], "totalRepliesScanned": len(all_signals), "errors": failures,
+        "signals": [s for s in all_signals if s["tokenRelated"]], "totalRepliesScanned": len(all_signals), "accountStatus": account_status, "errors": failures,
         "note": "Replies are unverified social signals, not evidence of purchases or endorsement."},
         indent=2, ensure_ascii=False) + "\n")
     STATE.write_text(json.dumps(new_state, indent=2) + "\n")
