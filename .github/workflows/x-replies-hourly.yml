@@ -22,11 +22,16 @@ jobs:
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: python scripts/x_replies.py
+      - name: Send optional iPhone push alerts for new relevant replies
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python scripts/notify_x_replies.py
       - name: Commit signals and cursor
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/x_signals.json data/x_state.json
+          if [ -f data/x_notified.json ]; then git add data/x_notified.json; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Update hourly X reply signals'
             git push
