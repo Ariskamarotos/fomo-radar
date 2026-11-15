@@ -1,101 +1,11 @@
 {
-  "checkedAt": "2026-11-15T20:43:14.260907+00:00",
+  "checkedAt": "2026-11-15T22:04:55.989390+00:00",
   "accounts": [
     "blknoiz06",
     "MINHxDYNASTY"
   ],
-  "signals": [
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122061005631242420",
-      "url": "https://x.com/MINHxDYNASTY/status/2122061005631242420",
-      "createdAt": "2026-11-15T20:15:44.000Z",
-      "replyToId": "2122055955601097066",
-      "text": "@savemejrus feel you bro\n\na thing that helped me a lot with managing always wanting more, is knowing the future version of ourself would want us to be grateful this present moment",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122059656818503767",
-      "url": "https://x.com/MINHxDYNASTY/status/2122059656818503767",
-      "createdAt": "2026-11-15T20:10:22.000Z",
-      "replyToId": "2122037769996300325",
-      "text": "@0xAvseenko effort",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122059580268335303",
-      "url": "https://x.com/MINHxDYNASTY/status/2122059580268335303",
-      "createdAt": "2026-11-15T20:10:04.000Z",
-      "replyToId": "2122057282049696089",
-      "text": "@bluechipjordan all of them*",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122059406506623106",
-      "url": "https://x.com/MINHxDYNASTY/status/2122059406506623106",
-      "createdAt": "2026-11-15T20:09:23.000Z",
-      "replyToId": "2122046367887417844",
-      "text": "@0xZeyni man i responded to the ai dammit",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122059341826322457",
-      "url": "https://x.com/MINHxDYNASTY/status/2122059341826322457",
-      "createdAt": "2026-11-15T20:09:07.000Z",
-      "replyToId": "2122049981578387796",
-      "text": "@primenic_eth congrats prime!",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122058555897589988",
-      "url": "https://x.com/MINHxDYNASTY/status/2122058555897589988",
-      "createdAt": "2026-11-15T20:06:00.000Z",
-      "replyToId": "2122054423321121240",
-      "text": "@aez_tcg w bro.",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122058263483289904",
-      "url": "https://x.com/MINHxDYNASTY/status/2122058263483289904",
-      "createdAt": "2026-11-15T20:04:50.000Z",
-      "replyToId": "2122055987075141900",
-      "text": "@savemejrus u can do it jrus",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122040958804246531",
-      "url": "https://x.com/MINHxDYNASTY/status/2122040958804246531",
-      "createdAt": "2026-11-15T18:56:04.000Z",
-      "replyToId": "2122038510257684702",
-      "text": "@0xZeyni it feels natural everyday, but on the days where there might be more friction? hmmm \n\nmaybe focus on ourselves a bit? give some time alone\n\nmaybe talk about it a bit when things are calmer",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    },
-    {
-      "account": "MINHxDYNASTY",
-      "postId": "2122040702578372898",
-      "url": "https://x.com/MINHxDYNASTY/status/2122040702578372898",
-      "createdAt": "2026-11-15T18:55:03.000Z",
-      "replyToId": "2122038197282844925",
-      "text": "@ImNewlyChinese BROOOO!!! CONGRATSS!!! what an amazing time. godspeed.",
-      "verifiedToken": false,
-      "marketReaction": "not_assessed"
-    }
-  ],
+  "signals": [],
+  "totalRepliesScanned": 1,
   "errors": [],
   "note": "Replies are unverified social signals, not evidence of purchases or endorsement."
 }
