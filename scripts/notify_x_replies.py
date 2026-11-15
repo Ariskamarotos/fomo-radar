@@ -29,7 +29,7 @@ def main():
     candidates = pending(data.get("signals", []), notified)
     for signal in candidates:
         account = signal["account"]
-        message = f"@{account}: {signal.get('text', '')[:350]}\\n{signal['url']}\\nUnverified X reply; not a token endorsement."
+        message = f"@{account}: {signal.get('text', '')[:350]}\n{signal['url']}\nUnverified X reply; not a token endorsement."
         request = urllib.request.Request(
             "https://ntfy.sh/" + urllib.parse.quote(topic, safe=""),
             data=message.encode("utf-8"),
@@ -42,7 +42,7 @@ def main():
                 raise RuntimeError("ntfy push failed")
         notified.append(str(signal["postId"]))
         SENT.parent.mkdir(parents=True, exist_ok=True)
-        SENT.write_text(json.dumps(notified[-1000:], indent=2) + "\\n")
+        SENT.write_text(json.dumps(notified[-1000:], indent=2) + "\n")
     print(f"Sent {len(candidates)} ntfy alert(s)")
 
 if __name__ == "__main__":
