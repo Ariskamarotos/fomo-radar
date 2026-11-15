@@ -22,7 +22,7 @@ def request(path, bearer):
     with urllib.request.urlopen(req, timeout=20) as response:
         return json.load(response)
 
-TOKEN_TERMS = re.compile(r"(?i)(\\b(?:token|coin|memecoin|pump|contract|buy|ape|launch|ticker|dex|liquidity|solana)\\b|\\$[A-Za-z][A-Za-z0-9]{1,12}\\b|[1-9A-HJ-NP-Za-km-z]{32,44})")
+TOKEN_TERMS = re.compile(r"(?i)(\b(?:token|coin|memecoin|pump|contract|buy|ape|launch|ticker|dex|liquidity|solana)\b|\$[A-Za-z][A-Za-z0-9]{1,12}\b|[1-9A-HJ-NP-Za-km-z]{32,44})")
 
 def relevant(text):
     return bool(TOKEN_TERMS.search(text or ""))
