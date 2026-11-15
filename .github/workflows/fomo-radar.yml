@@ -20,12 +20,14 @@ jobs:
         env:
           FOMO_API_KEY: ${{ secrets.FOMO_API_KEY }}
         run: python scripts/update.py
+      - name: Enrich tokens with DEX liquidity and 5m/1h data
+        run: python scripts/enrich_dex.py
       - name: Commit updated public JSON
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/trending.json
+          git add data/trending.json data/dex_enrichment.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Update FOMO trending snapshot'
+            git commit -m 'Update FOMO trending and DEX enrichment snapshots'
             git push
           fi
