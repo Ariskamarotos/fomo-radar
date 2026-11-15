@@ -4,6 +4,7 @@ Stores minimal metadata, no credentials, no private content. API billing applies
 import datetime
 import json
 import os
+import re
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -21,6 +22,11 @@ def request(path, bearer):
     with urllib.request.urlopen(req, timeout=20) as response:
         return json.load(response)
 
+TOKEN_TERMS = re.compile(r"(?i)(\\b(?:token|coin|memecoin|pump|contract|buy|ape|launch|ticker|dex|liquidity|solana)\\b|\\$[A-Za-z][A-Za-z0-9]{1,12}\\b|[1-9A-HJ-NP-Za-km-z]{32,44})")
+
+def relevant(text):
+    return bool(TOKEN_TERMS.search(text or ""))
+
 def parse_replies(username, posts):
     signals = []
     for post in posts:
@@ -33,7 +39,7 @@ def parse_replies(username, posts):
             "createdAt": post.get("created_at"),
             "replyToId": next((r.get("id") for r in references if r.get("type") == "replied_to"), None),
             "text": post.get("text", "")[:1000],
-            "verifiedToken": False,
+            "tokenRelated": relevant(post.get("text", "")), "verifiedToken": False,
             "marketReaction": "not_assessed"})
     return signals
 
@@ -67,7 +73,7 @@ def main():
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"checkedAt": now, "accounts": list(USERS),
-        "signals": all_signals, "errors": failures,
+        "signals": [s for s in all_signals if s["tokenRelated"]], "totalRepliesScanned": len(all_signals), "errors": failures,
         "note": "Replies are unverified social signals, not evidence of purchases or endorsement."},
         indent=2, ensure_ascii=False) + "\n")
     STATE.write_text(json.dumps(new_state, indent=2) + "\n")
