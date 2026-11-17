@@ -1,7 +1,5 @@
 name: Scheduler heartbeat (no API cost)
 on:
-  schedule:
-    - cron: '27 * * * *'
   workflow_dispatch:
 permissions:
   contents: read
