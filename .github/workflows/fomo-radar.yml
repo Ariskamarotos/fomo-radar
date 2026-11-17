@@ -32,6 +32,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/trending.json
+          if [ -f data/graduated.json ]; then git add data/graduated.json; fi
           if [ -f data/dex_risk_state.json ]; then git add data/dex_risk_state.json; fi
           if [ -f data/dex_enrichment.json ]; then git add data/dex_enrichment.json; fi
           if ! git diff --cached --quiet; then
