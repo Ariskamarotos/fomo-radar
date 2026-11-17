@@ -1,7 +1,5 @@
 name: Update FOMO Trending
 on:
-  schedule:
-    - cron: '23 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
