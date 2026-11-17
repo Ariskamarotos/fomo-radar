@@ -20,18 +20,24 @@ jobs:
         env:
           FOMO_API_KEY: ${{ secrets.FOMO_API_KEY }}
         run: python scripts/update.py
+      - name: Check upstream freshness
+        id: freshness
+        run: |
+          python -c "import json; d=json.load(open('data/collector_status.json')); print('fresh=' + str(d['fresh']).lower())" >> "$GITHUB_OUTPUT"
       - name: Test DEX enrichment (offline mocked API)
         run: python -m unittest discover -s tests -v
       - name: Enrich tokens with DEX liquidity and 5m/1h data
+        if: steps.freshness.outputs.fresh == 'true'
         continue-on-error: true
         run: python scripts/enrich_dex.py
       - name: Detect rapid dumps and liquidity collapses
+        if: steps.freshness.outputs.fresh == 'true'
         run: python scripts/detect_dumps.py
       - name: Commit updated public JSON
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/trending.json
+          git add data/collector_status.json data/trending.json
           if [ -f data/graduated.json ]; then git add data/graduated.json; fi
           if [ -f data/dex_risk_state.json ]; then git add data/dex_risk_state.json; fi
           if [ -f data/dex_enrichment.json ]; then git add data/dex_enrichment.json; fi
