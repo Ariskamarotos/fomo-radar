@@ -42,6 +42,7 @@ def enrich(token, checked_at):
            "priceChange5mPct": None, "priceChange1hPct": None,
            "buys5m": None, "sells5m": None, "buys1h": None, "sells1h": None,
            "pairAddress": None, "dexUrl": None, "pairCreatedAt": None,
+           "priceUsd": number(token.get("priceUsd")),
            "holderConcentration": None, "creatorActivity": None,
            "washTradingRisk": "not_assessed", "rugPullRisk": "not_assessed"}
     if not chain or not address:
