@@ -1,26 +1,26 @@
 {
-  "checkedAt": "2026-11-16T17:04:21.392397+00:00",
+  "checkedAt": "2026-11-17T00:49:42.299106+00:00",
   "accounts": [
     "blknoiz06",
     "MINHxDYNASTY"
   ],
   "signals": [],
-  "totalRepliesScanned": 7,
+  "totalRepliesScanned": 13,
   "accountStatus": {
     "blknoiz06": {
       "status": "ok",
       "postsReturned": 10,
-      "repliesFound": 2,
-      "latestPostId": "2122374637078401387",
-      "cursorBefore": "2122163848333463563",
+      "repliesFound": 5,
+      "latestPostId": "2122487584136069181",
+      "cursorBefore": "2122374637078401387",
       "note": null
     },
     "MINHxDYNASTY": {
       "status": "ok",
-      "postsReturned": 7,
-      "repliesFound": 5,
-      "latestPostId": "2122374418316009969",
-      "cursorBefore": "2122209354334290375",
+      "postsReturned": 10,
+      "repliesFound": 8,
+      "latestPostId": "2122485265415729348",
+      "cursorBefore": "2122374418316009969",
       "note": null
     }
   },
