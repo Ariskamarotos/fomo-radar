@@ -1,7 +1,5 @@
 name: X Influencer Replies (hourly budget-limited)
 on:
-  schedule:
-    - cron: '17 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
