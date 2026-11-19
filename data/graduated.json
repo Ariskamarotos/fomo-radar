@@ -1,196 +1,163 @@
 {
-  "polledAt": "2026-11-19T18:15:35.245048Z",
-  "capturedAt": "2026-11-19T18:13:47.734Z",
+  "polledAt": "2026-11-19T19:15:24.061561Z",
+  "capturedAt": "2026-11-19T19:12:25.005Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 17,
+  "count": 14,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "ufo",
+      "name": "ufo",
+      "address": "Me6fgDznuoLVURFQrmYqtjD91M45yt2m3kNWvZxpump",
+      "network": 1399811149,
+      "marketCapUsd": 79026.2496980331,
+      "holders": 1807,
+      "change24h": 1103.8508,
+      "priceUsd": 7.955829589661466e-05
+    },
+    {
+      "rank": 2,
+      "symbol": "GTAVI",
+      "name": "Official Grand Theft Auto VI",
+      "address": "WnLikenhvwS9AiLxzLGWiVBXqWZY57dtbWVJpKupump",
+      "network": 1399811149,
+      "marketCapUsd": 45282.364459948694,
+      "holders": 2660,
+      "change24h": 1803.6554,
+      "priceUsd": 4.545279468053358e-05
+    },
+    {
+      "rank": 3,
       "symbol": "AI",
       "name": "Anthropic Inu",
       "address": "5k8yMkEzcekeufWvTk5zvuZ8xnx2PqNdxs86E9P2bvQf",
       "network": 1399811149,
-      "marketCapUsd": 212938.47834282406,
-      "holders": 1021,
-      "change24h": 71.9758,
-      "priceUsd": 0.00021293847834282425
+      "marketCapUsd": 177433.1581962259,
+      "holders": 1590,
+      "change24h": 1183.3011,
+      "priceUsd": 0.00017743315820583516
     },
     {
-      "rank": 2,
-      "symbol": "JAMS",
-      "name": "CreateJams",
-      "address": "0xa25362061c4081b7913f276a629f020bf5baf29e",
-      "network": 4663,
-      "marketCapUsd": 40381.47351393025,
-      "holders": 112,
-      "change24h": 331.8378,
-      "priceUsd": 4.038147351393025e-05
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "symbol": "Rings",
       "name": "Rings",
       "address": "CSCEKFAeTwNvxUYU8B9skVb2AE6b6SoUkxbMTH4upump",
       "network": 1399811149,
-      "marketCapUsd": 80613.22545281013,
-      "holders": 2757,
-      "change24h": 1123.4924,
-      "priceUsd": 8.098723387441516e-05
+      "marketCapUsd": 56896.51517001464,
+      "holders": 2749,
+      "change24h": 1693.1624,
+      "priceUsd": 5.883922920662547e-05
     },
     {
-      "rank": 4,
+      "rank": 5,
       "symbol": "BUTTHOLE",
       "name": "BUTTHOLE",
       "address": "BWkSWbiyfbw1Td5hFwQn7E4B7vTjgCcF96M25aiCpump",
       "network": 1399811149,
-      "marketCapUsd": 113636.0341269844,
-      "holders": 631,
-      "change24h": 2669.6159,
-      "priceUsd": 0.00011560020376412289
-    },
-    {
-      "rank": 5,
-      "symbol": "ANT",
-      "name": "ANThropic",
-      "address": "81KRUmh7TiSYnHqGV8hjqG8yjfcESBpBNaRcCAeApump",
-      "network": 1399811149,
-      "marketCapUsd": 34883.96092456574,
-      "holders": 232,
-      "change24h": 973.4384,
-      "priceUsd": 3.5909662080858384e-05
+      "marketCapUsd": 197481.87631402997,
+      "holders": 666,
+      "change24h": 2511.7386,
+      "priceUsd": 0.00020089529977887656
     },
     {
       "rank": 6,
-      "symbol": "DCI",
-      "name": "DacityCoin",
-      "address": "uCiYNMTpBUXzUz92EtSnwBgUPzeVGxJfS7thkMkpump",
-      "network": 1399811149,
-      "marketCapUsd": 74274.74236212514,
-      "holders": 2182,
-      "change24h": 2633.16,
-      "priceUsd": 7.684955218940058e-05
-    },
-    {
-      "rank": 7,
       "symbol": "CATMARIO",
       "name": "Cat Mario",
       "address": "0x5c275f84ae7b58f75e68709f60241bbac4a1ad52",
       "network": 4663,
-      "marketCapUsd": 118182.75051711191,
-      "holders": 649,
-      "change24h": 3013.1719,
-      "priceUsd": 0.0001181827505171119
+      "marketCapUsd": 130552.25766405145,
+      "holders": 633,
+      "change24h": 2327.6205,
+      "priceUsd": 0.00013055225766405145
     },
     {
-      "rank": 8,
+      "rank": 7,
       "symbol": "KFC",
       "name": "Kentucky Fried Cat",
       "address": "ARXMRwp7jtzx4fxhWar2TdKTDokAGuX2RnqKXXy8pump",
       "network": 1399811149,
-      "marketCapUsd": 149893.42215562222,
-      "holders": 2725,
-      "change24h": 12328.48,
-      "priceUsd": 0.0001548756260171532
+      "marketCapUsd": 52779.87312220893,
+      "holders": 2071,
+      "change24h": 5458.0008,
+      "priceUsd": 5.453418684792097e-05
     },
     {
-      "rank": 9,
+      "rank": 8,
       "symbol": "TL",
       "name": "Thug Life",
       "address": "Au6Lx5eEQUsANpPaMttLj1anZDXvVQj9fXyYwMpSpump",
       "network": 1399811149,
-      "marketCapUsd": 48044.805246045085,
+      "marketCapUsd": 46142.69319513913,
       "holders": 193,
-      "change24h": 2235.2899,
-      "priceUsd": 4.9545751412602375e-05
+      "change24h": 2158.2338,
+      "priceUsd": 4.758421633403404e-05
     },
     {
-      "rank": 10,
+      "rank": 9,
       "symbol": "3.33双鱼座",
       "name": "3.33双鱼座",
       "address": "0x462be51511b2c76a351e5cf541eabcf0ed5c7777",
       "network": 56,
-      "marketCapUsd": 1543348.4999116566,
-      "holders": 2330,
-      "change24h": 9.515,
-      "priceUsd": 0.0015433484999116565
+      "marketCapUsd": 1571750.5150165742,
+      "holders": 2335,
+      "change24h": 9.7919,
+      "priceUsd": 0.001571750515016574
     },
     {
-      "rank": 11,
+      "rank": 10,
       "symbol": "PIPI",
       "name": "PIPITOAD",
       "address": "Bd7mSgkiBbMs6jGG2651KXGnUNqFW89u5gTEMieppump",
       "network": 1399811149,
-      "marketCapUsd": 48732.58886293336,
-      "holders": 1000,
-      "change24h": 1939.3427,
-      "priceUsd": 5.126257806820641e-05
+      "marketCapUsd": 32496.662517147615,
+      "holders": 919,
+      "change24h": 1457.8017,
+      "priceUsd": 3.4183751327615467e-05
     },
     {
-      "rank": 12,
-      "symbol": "PIPI",
-      "name": "PIPI",
-      "address": "6MKD1NkLvWRqdbFtqmgACBwUV5o6GJpZry8HkNgzpump",
-      "network": 1399811149,
-      "marketCapUsd": 308610.61365022307,
-      "holders": 4344,
-      "change24h": 6415.568,
-      "priceUsd": 0.00032052036719708147
-    },
-    {
-      "rank": 13,
-      "symbol": "GAYTA",
-      "name": "Gay Theft Auto",
-      "address": "DeXXt9HopHa28msm4iATCvrQBer1FScmkpnt73Dgpump",
-      "network": 1399811149,
-      "marketCapUsd": 57573.05309445532,
-      "holders": 423,
-      "change24h": 182.4041,
-      "priceUsd": 5.9185213781174075e-05
-    },
-    {
-      "rank": 14,
+      "rank": 11,
       "symbol": "幸运羊 ",
       "name": " Burn Lucky Sheep",
       "address": "0x72eff1574f9042adaea5a9832a182735fcd97777",
       "network": 56,
-      "marketCapUsd": 3315647.188697285,
-      "holders": 4240,
-      "change24h": -16.9022,
-      "priceUsd": 0.0033156480320222516
+      "marketCapUsd": 3602144.27260283,
+      "holders": 4308,
+      "change24h": -18.3321,
+      "priceUsd": 0.0036021451887974752
     },
     {
-      "rank": 15,
+      "rank": 12,
       "symbol": "BUCKME",
       "name": "Buck Me",
       "address": "DEgAkPNxz3dtMsesD2FDkNA2S6sch5YWfGUDT7R2pump",
       "network": 1399811149,
-      "marketCapUsd": 154420.09444800628,
-      "holders": 4164,
-      "change24h": 4415.6363,
-      "priceUsd": 0.00015492147976693392
+      "marketCapUsd": 94944.68133349017,
+      "holders": 4141,
+      "change24h": 4347.5206,
+      "priceUsd": 9.525298567038537e-05
     },
     {
-      "rank": 16,
+      "rank": 13,
       "symbol": "FNDR",
       "name": "Founder Official ",
       "address": "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump",
       "network": 1399811149,
-      "marketCapUsd": 78351.45384164526,
-      "holders": 2095,
-      "change24h": 5009.8862,
-      "priceUsd": 8.075612580133274e-05
+      "marketCapUsd": 80548.98467123344,
+      "holders": 2058,
+      "change24h": 4523.8997,
+      "priceUsd": 8.302110069873797e-05
     },
     {
-      "rank": 17,
+      "rank": 14,
       "symbol": "Buncoin",
       "name": "Buncoin",
       "address": "8ryYEFySsfXfQskxYmykyyA6pbNKjB4s9CfcffpQpump",
       "network": 1399811149,
-      "marketCapUsd": 81727.13954027105,
-      "holders": 588,
-      "change24h": 2388.9806,
-      "priceUsd": 8.52186668787047e-05
+      "marketCapUsd": 49788.127064557746,
+      "holders": 572,
+      "change24h": 2170.3672,
+      "priceUsd": 5.191516353926091e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
