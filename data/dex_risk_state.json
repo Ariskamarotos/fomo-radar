@@ -2,21 +2,21 @@
   "contracts": {
     "solana|4kjruqghdssqkmdffcjv7vb62hpfhtxywc2t6jpqzdnz": {
       "peak": 0.019504746693461666,
-      "price": 0.007373044508529501,
-      "liquidity": 357155.01,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.00638737604481778,
+      "liquidity": 330720.65,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|4cxjzymnof1p6exhxhv1twps2x47cuumlwtge18spump": {
       "peak": 0.012042167126159246,
-      "price": 0.007120263461435384,
-      "liquidity": 305676.19,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0068145432656632,
+      "liquidity": 294037.45,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "bsc|0x8e6442663a4f8c50b6132c68d42a30e7dfe4ae15": {
       "peak": 2.9248950246575024e-06,
-      "price": 2.797155942387194e-06,
-      "liquidity": 3637512.48,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 2.788333065495505e-06,
+      "liquidity": 3637076.58,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|9jhs5qojnufu7azxbsid1q6de6fvsino9ysw8qu6pump": {
       "peak": 0.0006188316588294336,
@@ -26,9 +26,9 @@
     },
     "solana|ai66lhzg9mczg1wkdawwqduvaxpnduuv8m3uyq5ppump": {
       "peak": 0.02326872672011996,
-      "price": 0.017746256033313975,
-      "liquidity": 1309409.51,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.01757989606442323,
+      "liquidity": 1304655.9,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "bsc|0x1501ee216eed4470ae89d0ae6310954c1e617777": {
       "peak": 0.0009656379671832462,
@@ -38,15 +38,15 @@
     },
     "solana|gexthzhgaswpaq7fi8qrhfubjpimunsyhjiaa7xzpump": {
       "peak": 0.00374733569174748,
-      "price": 0.0012627327545100644,
-      "liquidity": 109387.98,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0012125598847223073,
+      "liquidity": 107713.59,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|2j5sas7xy776qcbpypqbzjyqsatkifgrwjferthnw2zm": {
       "peak": 0.007715648865030874,
-      "price": 0.006457285867126582,
-      "liquidity": 358278.03,
-      "checkedAt": "2026-11-18T22:15:22.531654Z"
+      "price": 0.0069553547129963264,
+      "liquidity": 373417.05,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|8wbxhyckbgimalpdvnkxcvzgm1tag4gn69jzfejtpump": {
       "peak": 0.00030695515733489027,
@@ -62,15 +62,15 @@
     },
     "solana|bv1a7cej5arnjqhmw4krqqafesmsd5lwcdnuzq52bmmr": {
       "peak": 0.002865125457616858,
-      "price": 0.0014295749717414866,
-      "liquidity": 210679.56,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0014196218000238712,
+      "liquidity": 210873.24,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|dkycjobf7hptl9ryqbrderq2iwvizpfbgwwpwnxdpump": {
       "peak": 0.006441946879975752,
-      "price": 0.0011055524154182906,
-      "liquidity": 163169.85,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0008115823788004462,
+      "liquidity": 143743.66,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|fvzqgqrmr4uh1fif6dewmwbj1p4yuzcu8dcw4efopump": {
       "peak": 0.0008784428441623351,
@@ -80,15 +80,15 @@
     },
     "solana|5qap7okuqkffwwo5daeqdottsblmpdbqtxekcdatpump": {
       "peak": 0.001354468304874582,
-      "price": 0.0011802311370962932,
-      "liquidity": 144006.3,
-      "checkedAt": "2026-11-18T22:15:22.531654Z"
+      "price": 0.0010375097009493897,
+      "liquidity": 136816.56,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|7sl2vnfyschvog5oqy9nmtqu1wceamiqzwoqolqpump": {
       "peak": 0.0016691974078396191,
-      "price": 0.001586006616850003,
-      "liquidity": 141270.06,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0015972332931786608,
+      "liquidity": 142835.96,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "bsc|0x81c3ab2c7ee773af2ac823b8cef3c430ef11f039": {
       "peak": 0.002147797810793483,
@@ -134,9 +134,9 @@
     },
     "solana|5kjxg6x13axntm98axjgjnqcb82yzwhsnvjvx78cpump": {
       "peak": 0.0005321399964137987,
-      "price": 0.0004059604977030445,
-      "liquidity": 52406.73,
-      "checkedAt": "2026-11-18T21:15:23.382434Z"
+      "price": 0.00042826718041031367,
+      "liquidity": 52551.76,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "bsc|0x9665f094d862f4d5c221843e019b463d3c607777": {
       "peak": 0.0009963885002476497,
@@ -152,9 +152,9 @@
     },
     "solana|hszxb9rpprqarzhhcvulkkp7sakpmcwrarf5kttcpump": {
       "peak": 0.0010518431558086962,
-      "price": 0.0004454177158503807,
-      "liquidity": 75830.59,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0003486226453090969,
+      "liquidity": 69905.37,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "bsc|0xd270d4e1ec6e6e0d28c0ecb8be966ec75997ffff": {
       "peak": 0.001738624675299893,
@@ -182,9 +182,9 @@
     },
     "solana|9a13w5hdqe95g3ye8dk9wchpucrch33h6btfdfvrpump": {
       "peak": 0.000351211103659955,
-      "price": 0.0001973880605309814,
-      "liquidity": 40430.36,
-      "checkedAt": "2026-11-18T20:15:21.973014Z"
+      "price": 0.00016230104033300137,
+      "liquidity": 37645.07,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "bsc|0x0c6302401aa5325c2e36f170f52c00b1d220b405": {
       "peak": 0.0028906638307353845,
@@ -230,9 +230,9 @@
     },
     "solana|hzbiepf2om658epjnrrqxharz5l9ddm8akpsh2r5pump": {
       "peak": 0.0007677508044857023,
-      "price": 0.0005472125340396541,
-      "liquidity": 77118.86,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.00044846372355341284,
+      "liquidity": 70985.64,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|gyz3top3xac7xghfngbc419ksvtx1w8op6tc2bvupump": {
       "peak": 0.00035048091682208637,
@@ -254,15 +254,15 @@
     },
     "solana|9hjblbrc7wzw2h8uqvbavg5witzotxuv2bdcn4f4pump": {
       "peak": 0.013740302173694076,
-      "price": 0.01321161361021397,
-      "liquidity": 447460.15,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.013500073403444017,
+      "liquidity": 462002.96,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|cr8kunqkwivvuzqlykcjhmpshy767837bwlfr9gdyxuf": {
       "peak": 0.0004937970447903389,
-      "price": 0.0003010733788692426,
-      "liquidity": 61923.37,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0004142537803143294,
+      "liquidity": 70898.81,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|erim8nicanargenwmnuraoxtutvuxzbtjsptirnhpump": {
       "peak": 0.0004234709000011884,
@@ -272,9 +272,9 @@
     },
     "solana|akotzk1dhcnangajbtvnktt9bhbsvzc2mmhrfgkfpump": {
       "peak": 0.000954479099455861,
-      "price": 0.0007782445715234782,
-      "liquidity": 105398.44,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0008743397225277397,
+      "liquidity": 115316.29,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|9hfueab7sompldptaatgkrymngbtbafmhhmvpjebpump": {
       "peak": 0.0002709349217413229,
@@ -284,9 +284,9 @@
     },
     "solana|65ih8k736qnhuuhm1tt8x7yjxpj517hppq8brvdwring": {
       "peak": 0.0005717847410142569,
-      "price": 0.0004993225910894905,
-      "liquidity": 50085.33,
-      "checkedAt": "2026-11-18T21:15:23.382434Z"
+      "price": 0.00045307669627977864,
+      "liquidity": 47787.48,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|gm8eysyt8nrssouldeyshbrsudhouoib9en4ew3yetch": {
       "peak": 0.0015970264595918957,
@@ -307,10 +307,10 @@
       "checkedAt": "2026-11-18T22:15:22.531654Z"
     },
     "solana|fskyjfqb26u6c2gsgpacrjbxp9yqar8rutxprvnppump": {
-      "peak": 0.0006093695762893896,
-      "price": 0.0005558917874044453,
-      "liquidity": 65333.2,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "peak": 0.0006254951509268781,
+      "price": 0.0006254951509268781,
+      "liquidity": 69078.24,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|79re2ac8jhn3u12qlhymgdmctiwbn1d4matck1fhpump": {
       "peak": 0.0006610265689675622,
@@ -326,9 +326,9 @@
     },
     "solana|8hxscmy8ma8qp2yvzxg5szyyatzw5aurudha1g4upump": {
       "peak": 0.0007265843952724396,
-      "price": 0.0003775495106635774,
-      "liquidity": 69948.03,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.00040332247806392353,
+      "liquidity": 65734.14,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|ggyktbws99pzkvqag7wvxdkcbrxuldlrdm4ttfddpump": {
       "peak": 0.00033629623717314254,
@@ -355,22 +355,28 @@
       "checkedAt": "2026-11-18T23:15:24.001170Z"
     },
     "base|0x1bc0c42215582d5a085795f4badbac3ff36d1bcb": {
-      "peak": 11.77140840593638,
-      "price": 11.77140840593638,
-      "liquidity": 1305801.83,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "peak": 11.801705255657145,
+      "price": 11.801705255657145,
+      "liquidity": 1306883.18,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|98kff7rmsg1qdueocqne7g7m1fdrtt92tep2clzypump": {
       "peak": 0.001431687666852541,
-      "price": 0.001431687666852541,
-      "liquidity": 222373.56,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.001324281592344885,
+      "liquidity": 217183.93,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     },
     "solana|csocnzcrpgscr1nakcntiewzuxb6rabe45j844m7pump": {
       "peak": 0.0017952480361379762,
-      "price": 0.0017952480361379762,
-      "liquidity": 135445.99,
-      "checkedAt": "2026-11-18T23:15:24.001170Z"
+      "price": 0.0017433007702302493,
+      "liquidity": 131960.95,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
+    },
+    "solana|erdrmaqsoeldscmmpbkkrm4lv1mzta2khrvxklpqpump": {
+      "peak": 0.0002233018450697504,
+      "price": 0.0002233018450697504,
+      "liquidity": 46755.54,
+      "checkedAt": "2026-11-19T00:15:23.261632Z"
     }
   }
 }
