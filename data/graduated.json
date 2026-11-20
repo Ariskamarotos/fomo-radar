@@ -1,108 +1,108 @@
 {
-  "polledAt": "2026-11-20T12:15:25.676600Z",
-  "capturedAt": "2026-11-20T12:14:11.011Z",
+  "polledAt": "2026-11-20T13:15:31.929558Z",
+  "capturedAt": "2026-11-20T13:14:34.312Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 21,
+  "count": 23,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "zc",
+      "name": "zc",
+      "address": "0x63d4986c50d441ec2e55a5d6f761dafbe6eb7777",
+      "network": 56,
+      "marketCapUsd": 63163.78011487686,
+      "holders": 622,
+      "change24h": 877.5191,
+      "priceUsd": 6.316378011487686e-05
+    },
+    {
+      "rank": 2,
+      "symbol": "SNAPMATIC ",
+      "name": "Snapmatic memes",
+      "address": "Gt9qKqRKdDK2mSczG9WYgRqS8pZkCw47ZW71iW34pump",
+      "network": 1399811149,
+      "marketCapUsd": 49121.08347411982,
+      "holders": 481,
+      "change24h": 1741.2028,
+      "priceUsd": 5.100763112487027e-05
+    },
+    {
+      "rank": 3,
       "symbol": "Catnomics",
       "name": "Catnomics",
       "address": "BR3TZmbCPtyTpgLBtUvJocMbxPt2pw3CBSUJ5oq6pump",
       "network": 1399811149,
-      "marketCapUsd": 91589.92566382104,
-      "holders": 960,
-      "change24h": 2159.964,
-      "priceUsd": 9.455338657306407e-05
+      "marketCapUsd": 143573.84838258938,
+      "holders": 1361,
+      "change24h": 5530.9957,
+      "priceUsd": 0.00014821928819693195
     },
     {
-      "rank": 2,
+      "rank": 4,
       "symbol": "AMC",
       "name": "A Mario Cat",
       "address": "Hm9Jp2DE96FWCJSvRe2AbEE6wZ1EVjdFFCZMvDVfpump",
       "network": 1399811149,
-      "marketCapUsd": 30944.78406348127,
-      "holders": 2691,
-      "change24h": 3370.4079,
-      "priceUsd": 3.2501733116265665e-05
+      "marketCapUsd": 195953.56301472773,
+      "holders": 2706,
+      "change24h": 3273.6797,
+      "priceUsd": 0.00020581272744449512
     },
     {
-      "rank": 3,
-      "symbol": "DCI",
-      "name": "DacityCoin",
-      "address": "FxNctrb3t3cXCP6d4y9DM9eG6U6tr6g5uPZoqAYZpump",
-      "network": 1399811149,
-      "marketCapUsd": 51067.61815524325,
-      "holders": 2180,
-      "change24h": 2628.0088,
-      "priceUsd": 5.2846756474871014e-05
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "symbol": "RUDY",
       "name": "Rudolph",
       "address": "GRMRQSkBGg2Cc8Y9GePNBcJVk49YepWkXUDQBXAMpump",
       "network": 1399811149,
-      "marketCapUsd": 149007.59098574094,
-      "holders": 1768,
-      "change24h": 4261.225,
-      "priceUsd": 0.0001561497577430119
+      "marketCapUsd": 172876.24566426533,
+      "holders": 1794,
+      "change24h": 4297.8442,
+      "priceUsd": 0.0001811624743505829
     },
     {
-      "rank": 5,
+      "rank": 6,
       "symbol": "亮剑",
       "name": "亮剑",
       "address": "0xa3d323bb6d898e70d23cf67bfb13e0a507767777",
       "network": 56,
-      "marketCapUsd": 138518.55397638632,
-      "holders": 266,
-      "change24h": 360.392,
-      "priceUsd": 0.0005540742159055453
+      "marketCapUsd": 101111.78639476358,
+      "holders": 240,
+      "change24h": 226.609,
+      "priceUsd": 0.0004044471455790543
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "Anthropic股票",
       "name": "Anthropic Stock",
       "address": "0x26cfa60326f19d4d467a7e41a528655d1bce7777",
       "network": 56,
-      "marketCapUsd": 40386.96865965606,
-      "holders": 10891,
-      "change24h": 124.3624,
-      "priceUsd": 4.06087005749003e-05
+      "marketCapUsd": 38253.09683851802,
+      "holders": 13188,
+      "change24h": 79.9146,
+      "priceUsd": 3.846311340345276e-05
     },
     {
-      "rank": 7,
+      "rank": 8,
       "symbol": "AMC",
       "name": "A Mario Cat",
       "address": "0x979a4772a4880804636e79475f9f54c186d12c3f",
       "network": 4663,
-      "marketCapUsd": 101004.75736515225,
-      "holders": 304,
-      "change24h": 2158.3409,
-      "priceUsd": 0.00010100475736515225
+      "marketCapUsd": 50249.26147167768,
+      "holders": 272,
+      "change24h": 1601.2352,
+      "priceUsd": 5.024926147167768e-05
     },
     {
-      "rank": 8,
+      "rank": 9,
       "symbol": "AMC ",
       "name": "A Mario Cat",
       "address": "J7bLsZcpkfky92ir8k36Munz91nHKtcDNhDy8d3Qpump",
       "network": 1399811149,
-      "marketCapUsd": 230042.95870968894,
-      "holders": 1252,
-      "change24h": 9895.7772,
-      "priceUsd": 0.00024325669752633537
-    },
-    {
-      "rank": 9,
-      "symbol": "牛逼",
-      "name": "牛逼",
-      "address": "AFWLkaPWJ9AAYyHt9vjurwRF2qBw5vSCQFSZ78TNd6oz",
-      "network": 1399811149,
-      "marketCapUsd": 31806.302114426468,
-      "holders": 789,
-      "change24h": 1121.0056,
-      "priceUsd": 3.250270507242635e-05
+      "marketCapUsd": 153517.4774897258,
+      "holders": 1188,
+      "change24h": 5486.1938,
+      "priceUsd": 0.0001623355689571531
     },
     {
       "rank": 10,
@@ -110,10 +110,10 @@
       "name": "Retard Patrick",
       "address": "8mnJZnxaNLqVwkaWWGH7dKmoEzyYzGJx5pHaCp7spump",
       "network": 1399811149,
-      "marketCapUsd": 38150.11343331283,
-      "holders": 637,
-      "change24h": 1672.8363,
-      "priceUsd": 3.967649417644559e-05
+      "marketCapUsd": 35534.5899845323,
+      "holders": 619,
+      "change24h": 1816.845,
+      "priceUsd": 3.6956323997520744e-05
     },
     {
       "rank": 11,
@@ -121,10 +121,10 @@
       "name": "币安理财",
       "address": "0x06e8cac2cf90c963fdc9435a6536fa9cc9127777",
       "network": 56,
-      "marketCapUsd": 32967.93053505453,
-      "holders": 228,
-      "change24h": 107.6157,
-      "priceUsd": 3.296793053505453e-05
+      "marketCapUsd": 36458.38513814076,
+      "holders": 232,
+      "change24h": 130.3019,
+      "priceUsd": 3.6458385138140756e-05
     },
     {
       "rank": 12,
@@ -132,10 +132,10 @@
       "name": "enu",
       "address": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump",
       "network": 1399811149,
-      "marketCapUsd": 35531.690632918166,
-      "holders": 362,
-      "change24h": 2123.0341,
-      "priceUsd": 3.7027077027547436e-05
+      "marketCapUsd": 32445.833106767852,
+      "holders": 364,
+      "change24h": 1618.3753,
+      "priceUsd": 3.3811348130849545e-05
     },
     {
       "rank": 13,
@@ -143,10 +143,10 @@
       "name": "NVDA Chain",
       "address": "0x7d578ac588917519f339c70bdd991bf3aa9c0620",
       "network": 4663,
-      "marketCapUsd": 54244.174138771996,
-      "holders": 496,
-      "change24h": 1857.8686,
-      "priceUsd": 5.4244174138772e-05
+      "marketCapUsd": 50696.43087010324,
+      "holders": 480,
+      "change24h": 2000.2621,
+      "priceUsd": 5.0696430870103245e-05
     },
     {
       "rank": 14,
@@ -154,87 +154,109 @@
       "name": "RUGGED",
       "address": "GT8WxWKEgxzZiKL89Uu288vb8jnescwpNSrvyHzcpump",
       "network": 1399811149,
-      "marketCapUsd": 56170.52502547488,
-      "holders": 3586,
-      "change24h": 2984.4965,
-      "priceUsd": 5.786524489212239e-05
+      "marketCapUsd": 46922.60167724926,
+      "holders": 3515,
+      "change24h": 2123.7704,
+      "priceUsd": 4.833830262042466e-05
     },
     {
       "rank": 15,
+      "symbol": "AVENGERS",
+      "name": "Avengers ",
+      "address": "HxfR3vLJsrg1rvFA3MzyWZaonLJNp4QpFsYj1M6ppump",
+      "network": 1399811149,
+      "marketCapUsd": 37189.16356973952,
+      "holders": 196,
+      "change24h": 1214.5632,
+      "priceUsd": 3.718916356973952e-05
+    },
+    {
+      "rank": 16,
       "symbol": "ZUNSHUN",
       "name": "尊顺",
       "address": "0x7d2186e7e6b32205a838a1ea67bea68729fd7777",
       "network": 56,
-      "marketCapUsd": 53579.4756341548,
-      "holders": 128,
-      "change24h": -35.5092,
-      "priceUsd": 5.3798394830278134e-05
+      "marketCapUsd": 47367.0872520275,
+      "holders": 121,
+      "change24h": -44.6386,
+      "priceUsd": 4.756062338766873e-05
     },
     {
-      "rank": 16,
+      "rank": 17,
       "symbol": "AI",
       "name": "Apple Inu",
       "address": "8SacNb6sgiAcscRe4m915B6nL9XX55dk8FS7L532pump",
       "network": 1399811149,
-      "marketCapUsd": 106083.03545865924,
-      "holders": 1638,
-      "change24h": 2882.7059,
-      "priceUsd": 0.00011606791838788405
+      "marketCapUsd": 90882.85969557641,
+      "holders": 1598,
+      "change24h": 2893.6975,
+      "priceUsd": 9.943705227132647e-05
     },
     {
-      "rank": 17,
+      "rank": 18,
       "symbol": "JUNIOR",
       "name": "Junior",
       "address": "828Rg1VfMcfcTKJRxfr83nnrTWzmVjrDS9Rpr1BBeA7U",
       "network": 1399811149,
-      "marketCapUsd": 55547.659493493484,
-      "holders": 400,
-      "change24h": 1354.6909,
-      "priceUsd": 6.107490843203898e-05
-    },
-    {
-      "rank": 18,
-      "symbol": "ANT",
-      "name": "Anthropic",
-      "address": "0xb4f9d1b2cad3646d15797de462e5d773194d7777",
-      "network": 56,
-      "marketCapUsd": 384446.95058763796,
-      "holders": 2276,
-      "change24h": 8365.9324,
-      "priceUsd": 0.00038444695058763794
+      "marketCapUsd": 54838.1521969991,
+      "holders": 401,
+      "change24h": 1536.9049,
+      "priceUsd": 6.029480187920872e-05
     },
     {
       "rank": 19,
-      "symbol": "BUTTHOLE",
-      "name": "BUTTHOLE",
-      "address": "BWkSWbiyfbw1Td5hFwQn7E4B7vTjgCcF96M25aiCpump",
+      "symbol": "VINTEL",
+      "name": "VINTEL",
+      "address": "H1jcPQwCX9VPiNGBUpQNJdGzZEHiisFSs1WS4fi6pump",
       "network": 1399811149,
-      "marketCapUsd": 91752.56237272389,
-      "holders": 857,
-      "change24h": 1943.2883,
-      "priceUsd": 9.333848947048328e-05
+      "marketCapUsd": 32485.764672654706,
+      "holders": 307,
+      "change24h": 1493.379,
+      "priceUsd": 3.314616771778416e-05
     },
     {
       "rank": 20,
       "symbol": "CATMARIO",
       "name": "Cat Mario",
-      "address": "0x5c275f84ae7b58f75e68709f60241bbac4a1ad52",
-      "network": 4663,
-      "marketCapUsd": 40276.24159369086,
-      "holders": 579,
-      "change24h": 745.6065,
-      "priceUsd": 4.027624159369086e-05
+      "address": "Axkd2GMCfA4Lehb2gQR6bG8irjwTVaQcHXxwiBNt2Rbo",
+      "network": 1399811149,
+      "marketCapUsd": 33886.130114080326,
+      "holders": 339,
+      "change24h": 1568.8828,
+      "priceUsd": 3.506826507550143e-05
     },
     {
       "rank": 21,
-      "symbol": "3.33双鱼座",
-      "name": "3.33双鱼座",
-      "address": "0x462be51511b2c76a351e5cf541eabcf0ed5c7777",
-      "network": 56,
-      "marketCapUsd": 1450066.8823389334,
-      "holders": 2313,
-      "change24h": -1.9734,
-      "priceUsd": 0.0014500668823389333
+      "symbol": "BUTTHOLE",
+      "name": "BUTTHOLE",
+      "address": "BWkSWbiyfbw1Td5hFwQn7E4B7vTjgCcF96M25aiCpump",
+      "network": 1399811149,
+      "marketCapUsd": 125261.10317268169,
+      "holders": 842,
+      "change24h": 2130.8487,
+      "priceUsd": 0.00012742621957575063
+    },
+    {
+      "rank": 22,
+      "symbol": "CATMARIO",
+      "name": "Cat Mario",
+      "address": "0x5c275f84ae7b58f75e68709f60241bbac4a1ad52",
+      "network": 4663,
+      "marketCapUsd": 38854.99355422029,
+      "holders": 574,
+      "change24h": 757.6075,
+      "priceUsd": 3.8854993554220285e-05
+    },
+    {
+      "rank": 23,
+      "symbol": "USAR",
+      "name": "United States Asset Reserve",
+      "address": "0xca1e551fed64537339ac502a044d1ebaf1a3403c",
+      "network": 8453,
+      "marketCapUsd": 182375.53681948935,
+      "holders": 448,
+      "change24h": 3.0475,
+      "priceUsd": 1.823755368194894e-06
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
