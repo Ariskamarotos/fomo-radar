@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-20T17:15:35.886459Z",
-  "fresh": true,
-  "reason": "fresh",
+  "checkedAt": "2026-11-20T18:15:48.077836Z",
+  "fresh": false,
+  "reason": "upstream_source_not_live_or_stale",
   "message": "Upstream freshness is mandatory. No stale data was relabeled as current."
 }
