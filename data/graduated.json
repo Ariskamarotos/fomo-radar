@@ -1,196 +1,218 @@
 {
-  "polledAt": "2026-11-21T00:15:23.624510Z",
-  "capturedAt": "2026-11-21T00:15:19.838Z",
+  "polledAt": "2026-11-21T01:15:24.882100Z",
+  "capturedAt": "2026-11-21T01:12:42.605Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 17,
+  "count": 19,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "Gestalt",
+      "name": "Gestalt",
+      "address": "0xcaf3a1bfcfbbc1e7afb00f28b3ed1934d0f17777",
+      "network": 56,
+      "marketCapUsd": 57181.74297798053,
+      "holders": 645,
+      "change24h": 88.7191,
+      "priceUsd": 5.718174297798053e-05
+    },
+    {
+      "rank": 2,
       "symbol": "Bust",
       "name": "BUST",
       "address": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump",
       "network": 1399811149,
-      "marketCapUsd": 99449.76816130323,
-      "holders": 670,
-      "change24h": 2426.5539,
-      "priceUsd": 0.00010559335432623443
+      "marketCapUsd": 48828.35386967673,
+      "holders": 702,
+      "change24h": 2636.1806,
+      "priceUsd": 5.184476310658469e-05
     },
     {
-      "rank": 2,
+      "rank": 3,
       "symbol": "BANDANA",
       "name": "BANDANA CAT",
       "address": "2KRbMf4itijwsTHb5dQtiBpfptyNmhpVzmpdj4qqN2yx",
       "network": 1399811149,
-      "marketCapUsd": 250737.2003469474,
-      "holders": 1097,
-      "change24h": 13220.0234,
-      "priceUsd": 0.00025073720477339253
+      "marketCapUsd": 189774.50624822045,
+      "holders": 1120,
+      "change24h": 13179.1277,
+      "priceUsd": 0.00018977450959844707
     },
     {
-      "rank": 3,
+      "rank": 4,
       "symbol": "INVESTOR",
       "name": "Mr. Investor",
       "address": "Cprf8kWjKCgQBLqzWyJzFhoyFhd7nDRysSDkoeb7pump",
       "network": 1399811149,
-      "marketCapUsd": 71903.86445725104,
-      "holders": 362,
-      "change24h": 792.0819,
-      "priceUsd": 7.620519851710352e-05
+      "marketCapUsd": 43863.990833032316,
+      "holders": 347,
+      "change24h": 752.2856,
+      "priceUsd": 4.648796214800038e-05
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "symbol": "shep",
+      "name": "shep",
+      "address": "SPHFHU7sz2EZQYqyxMrZjgFdiYSCXJxRBE4giAjpump",
+      "network": 1399811149,
+      "marketCapUsd": 42581.88989561369,
+      "holders": 432,
+      "change24h": 275.9527,
+      "priceUsd": 4.384602363708834e-05
+    },
+    {
+      "rank": 6,
       "symbol": "Trader",
       "name": "The Trader",
       "address": "BYKQkHKMWHidNBLQXgt7NX4PLUtJZRYGLWQYkJzPGenX",
       "network": 1399811149,
-      "marketCapUsd": 254902.72377428444,
-      "holders": 2893,
-      "change24h": 2186.0081,
-      "priceUsd": 0.00025490273309968376
+      "marketCapUsd": 237308.87454357685,
+      "holders": 2826,
+      "change24h": 2095.0388,
+      "priceUsd": 0.00023730888322532018
     },
     {
-      "rank": 5,
+      "rank": 7,
       "symbol": "Singularity",
       "name": "Singularity",
       "address": "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump",
       "network": 1399811149,
-      "marketCapUsd": 127856.36719319489,
-      "holders": 1393,
-      "change24h": 5239.14,
-      "priceUsd": 0.00013451901568589634
+      "marketCapUsd": 165093.51957410455,
+      "holders": 1404,
+      "change24h": 5471.2214,
+      "priceUsd": 0.00017369661157094746
     },
     {
-      "rank": 6,
+      "rank": 8,
       "symbol": "CORBEL",
       "name": "Corbel Finance",
       "address": "0xaa1f4de6b9f7cdf11fb8aa97ce163d35d731cdb1",
       "network": 4663,
-      "marketCapUsd": 35403.93636335025,
-      "holders": 300,
-      "change24h": 1055.5718,
-      "priceUsd": 3.540393636335025e-05
+      "marketCapUsd": 43017.87329409928,
+      "holders": 303,
+      "change24h": 1158.1823,
+      "priceUsd": 4.301787329409928e-05
     },
     {
-      "rank": 7,
+      "rank": 9,
       "symbol": "RIEMANN",
       "name": "The Riemann Hypothesis",
       "address": "FMWYmSLD4eNQrvxrXWsTf7HEsNQYqSCqzPbdEUqNpump",
       "network": 1399811149,
-      "marketCapUsd": 85574.00434954166,
-      "holders": 930,
-      "change24h": 2338.674,
-      "priceUsd": 8.807267582621477e-05
+      "marketCapUsd": 84369.3786402453,
+      "holders": 911,
+      "change24h": 2266.969,
+      "priceUsd": 8.683287630539977e-05
     },
     {
-      "rank": 8,
+      "rank": 10,
       "symbol": "小面包",
       "name": "Innocent Cat",
       "address": "BjCRkoV3Ksd6bukFUyuF9pdPWTAoeAizFXXZ8qDJpump",
       "network": 1399811149,
-      "marketCapUsd": 47944.58719061701,
-      "holders": 231,
+      "marketCapUsd": 46724.595397372184,
+      "holders": 232,
       "change24h": 1783.4771,
-      "priceUsd": 4.9784650108958166e-05
+      "priceUsd": 4.8517836311583756e-05
     },
     {
-      "rank": 9,
+      "rank": 11,
       "symbol": "蚂蚁",
       "name": "蚂蚁",
       "address": "0x1484247a2229ba6116dc8f5cd1bef29e9c247777",
       "network": 56,
-      "marketCapUsd": 436426.23123784445,
-      "holders": 13563,
-      "change24h": 61.3477,
-      "priceUsd": 0.0004364262312378444
+      "marketCapUsd": 578773.2614437526,
+      "holders": 13650,
+      "change24h": 63.1113,
+      "priceUsd": 0.0005787732614437526
     },
     {
-      "rank": 10,
+      "rank": 12,
       "symbol": "zc",
       "name": "zc",
       "address": "0x63d4986c50d441ec2e55a5d6f761dafbe6eb7777",
       "network": 56,
-      "marketCapUsd": 40121.47687356152,
-      "holders": 618,
-      "change24h": 379.6307,
-      "priceUsd": 4.0121476873561524e-05
+      "marketCapUsd": 83702.08789112343,
+      "holders": 663,
+      "change24h": 457.5432,
+      "priceUsd": 8.370208789112344e-05
     },
     {
-      "rank": 11,
+      "rank": 13,
       "symbol": "SNAPMATIC ",
       "name": "Snapmatic memes",
       "address": "Gt9qKqRKdDK2mSczG9WYgRqS8pZkCw47ZW71iW34pump",
       "network": 1399811149,
-      "marketCapUsd": 31937.969860208425,
-      "holders": 355,
+      "marketCapUsd": 31941.340994322203,
+      "holders": 352,
       "change24h": 966.3385,
-      "priceUsd": 3.316463890602216e-05
+      "priceUsd": 3.316813951817993e-05
     },
     {
-      "rank": 12,
+      "rank": 14,
       "symbol": "RUDY",
       "name": "Rudolph",
       "address": "GRMRQSkBGg2Cc8Y9GePNBcJVk49YepWkXUDQBXAMpump",
       "network": 1399811149,
-      "marketCapUsd": 49508.72626400963,
-      "holders": 1213,
+      "marketCapUsd": 52075.64677683238,
+      "holders": 1198,
       "change24h": 1212.6149,
-      "priceUsd": 5.1883669527696e-05
+      "priceUsd": 5.457372571861795e-05
     },
     {
-      "rank": 13,
+      "rank": 15,
       "symbol": "亮剑",
       "name": "亮剑",
       "address": "0xa3d323bb6d898e70d23cf67bfb13e0a507767777",
       "network": 56,
-      "marketCapUsd": 63941.05392573987,
+      "marketCapUsd": 61358.85815086862,
       "holders": 700,
       "change24h": 215.3671,
-      "priceUsd": 0.00025576421570295947
+      "priceUsd": 0.0002454354326034745
     },
     {
-      "rank": 14,
+      "rank": 16,
       "symbol": "Anthropic股票",
       "name": "Anthropic Stock",
       "address": "0x26cfa60326f19d4d467a7e41a528655d1bce7777",
       "network": 56,
-      "marketCapUsd": 59096.96035633566,
-      "holders": 29537,
-      "change24h": 328.2209,
-      "priceUsd": 5.942141358072467e-05
+      "marketCapUsd": 77722.5892386204,
+      "holders": 32026,
+      "change24h": 327.2025,
+      "priceUsd": 7.814930060472589e-05
     },
     {
-      "rank": 15,
+      "rank": 17,
       "symbol": "PATRICK",
       "name": "Retard Patrick",
       "address": "8mnJZnxaNLqVwkaWWGH7dKmoEzyYzGJx5pHaCp7spump",
       "network": 1399811149,
-      "marketCapUsd": 200421.6960539028,
-      "holders": 2955,
-      "change24h": 7069.9688,
-      "priceUsd": 0.00020846350205085186
+      "marketCapUsd": 143538.91235236035,
+      "holders": 3039,
+      "change24h": 7447.9529,
+      "priceUsd": 0.00014929868796360535
     },
     {
-      "rank": 16,
+      "rank": 18,
       "symbol": "Binance Earn",
       "name": "币安理财",
       "address": "0x06e8cac2cf90c963fdc9435a6536fa9cc9127777",
       "network": 56,
-      "marketCapUsd": 48468.46750963927,
-      "holders": 1245,
+      "marketCapUsd": 48646.86819803372,
+      "holders": 1250,
       "change24h": 193.9585,
-      "priceUsd": 4.846846750963927e-05
+      "priceUsd": 4.864686819803372e-05
     },
     {
-      "rank": 17,
+      "rank": 19,
       "symbol": "enu",
       "name": "enu",
       "address": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump",
       "network": 1399811149,
-      "marketCapUsd": 107980.53013854993,
-      "holders": 532,
-      "change24h": 4018.9782,
-      "priceUsd": 0.00011253711977084687
+      "marketCapUsd": 98646.14111910522,
+      "holders": 530,
+      "change24h": 4022.9808,
+      "priceUsd": 0.0001028088358503931
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
