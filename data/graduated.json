@@ -1,163 +1,185 @@
 {
-  "polledAt": "2026-11-22T01:15:22.804746Z",
-  "capturedAt": "2026-11-22T01:13:12.834Z",
+  "polledAt": "2026-11-22T02:15:22.242000Z",
+  "capturedAt": "2026-11-22T02:11:11.158Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 14,
+  "count": 16,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "MCPD",
+      "name": "MCP Desk",
+      "address": "0xdc279f3eeb230ca611e8916079eceefabcb17777",
+      "network": 56,
+      "marketCapUsd": 31692.195681150504,
+      "holders": 347,
+      "change24h": 383.8221,
+      "priceUsd": 3.2419869818922424e-05
+    },
+    {
+      "rank": 2,
+      "symbol": "RIZZMAS",
+      "name": "RIZZMAS 3",
+      "address": "6J3ApVu8dSLg1TJjBLWSTgmnvJXcH2YyF2iDC48Fpump",
+      "network": 1399811149,
+      "marketCapUsd": 75717.56421202792,
+      "holders": 1144,
+      "change24h": 5428.1325,
+      "priceUsd": 7.738222815626974e-05
+    },
+    {
+      "rank": 3,
+      "symbol": "Rockstar",
+      "name": "Rockstar Games",
+      "address": "G976rn7PwtvqRpiKYU3y9mdayNzrcDKeKBn4kC5Dpump",
+      "network": 1399811149,
+      "marketCapUsd": 35220.108708649605,
+      "holders": 2672,
+      "change24h": 1205.8755,
+      "priceUsd": 3.645330244037466e-05
+    },
+    {
+      "rank": 4,
       "symbol": "RIZZMAS3",
       "name": "RIZZMAS3",
       "address": "BQcV4Ryfu9bZK8egAF89AhkojdJqAaDt4xTFwUQ2pump",
       "network": 1399811149,
-      "marketCapUsd": 191250.62929433197,
-      "holders": 2337,
-      "change24h": 1668.8218,
-      "priceUsd": 0.00019840966667809324
+      "marketCapUsd": 187689.98319678442,
+      "holders": 2076,
+      "change24h": 4349.7565,
+      "priceUsd": 0.0001947158219122016
     },
     {
-      "rank": 2,
+      "rank": 5,
       "symbol": "UranusCoin",
       "name": "UranusCoin",
       "address": "0xd3ba2b6998d7929d85092a43502961dfb86f7777",
       "network": 56,
-      "marketCapUsd": 57555.517014362194,
-      "holders": 551,
-      "change24h": 2090.2025,
-      "priceUsd": 5.75555170143622e-05
+      "marketCapUsd": 37142.36620910532,
+      "holders": 497,
+      "change24h": 1480.4374,
+      "priceUsd": 3.714236620910532e-05
     },
     {
-      "rank": 3,
+      "rank": 6,
       "symbol": "Minelius",
       "name": "Minelius",
       "address": "3U5AfwN8LNJKGB1qJynW1khSgbQAnrUk4VbYmknipump",
       "network": 1399811149,
-      "marketCapUsd": 51924.69613969939,
-      "holders": 737,
-      "change24h": 1030.8611,
-      "priceUsd": 5.4217508127306025e-05
+      "marketCapUsd": 44940.24433766838,
+      "holders": 708,
+      "change24h": 1101.9553,
+      "priceUsd": 4.692464749462009e-05
     },
     {
-      "rank": 4,
+      "rank": 7,
       "symbol": "Mfer",
       "name": "Mfer",
       "address": "9tX1UpBGeNqMb1VqqzVumwzW71ybsNZFyWKYiL8Ppump",
       "network": 1399811149,
-      "marketCapUsd": 36980.542468814085,
-      "holders": 804,
-      "change24h": 1298.0841,
-      "priceUsd": 3.803404125338194e-05
+      "marketCapUsd": 35890.14650405459,
+      "holders": 787,
+      "change24h": 800.8364,
+      "priceUsd": 3.6912582174160545e-05
     },
     {
-      "rank": 5,
+      "rank": 8,
       "symbol": "LUX",
       "name": "Zerolux.fun",
       "address": "0x1640d5b6cfbddabbde8ae2401f7d4ec5a2026951",
       "network": 4663,
-      "marketCapUsd": 50244.89892698517,
-      "holders": 173,
-      "change24h": 1039.4918,
-      "priceUsd": 5.081912634329358e-05
+      "marketCapUsd": 54840.516927033226,
+      "holders": 184,
+      "change24h": 1459.6573,
+      "priceUsd": 5.54672656919136e-05
     },
     {
-      "rank": 6,
+      "rank": 9,
       "symbol": "蚂蚁股票",
       "name": "Anthropic交流817394506",
       "address": "0x387c257253ce1acdd88ba712660e30b479437777",
       "network": 56,
-      "marketCapUsd": 65840.77945251476,
-      "holders": 1684,
-      "change24h": 1882.8313,
-      "priceUsd": 6.600859213574775e-05
+      "marketCapUsd": 62880.02739840427,
+      "holders": 1713,
+      "change24h": 1752.5344,
+      "priceUsd": 6.304029382002372e-05
     },
     {
-      "rank": 7,
+      "rank": 10,
       "symbol": "ILY",
       "name": "ILY",
       "address": "51TUkCJcBPi5fj9gZgjnXh6Ny5RSiEbrxUBoikDLpump",
       "network": 1399811149,
-      "marketCapUsd": 32738.523848717803,
-      "holders": 373,
-      "change24h": 1847.9186,
-      "priceUsd": 3.436296970660072e-05
+      "marketCapUsd": 31618.47372880819,
+      "holders": 349,
+      "change24h": 1378.938,
+      "priceUsd": 3.318734405780299e-05
     },
     {
-      "rank": 8,
-      "symbol": "Mei-chan",
-      "name": "メイちゃん The Last Otter",
-      "address": "2Fm3qAJQ4s9Hcem4rLUsrfscFBYuMzpmmPbJiSADpump",
-      "network": 1399811149,
-      "marketCapUsd": 36123.76808401212,
-      "holders": 209,
-      "change24h": 1077.9264,
-      "priceUsd": 3.6187448114623585e-05
-    },
-    {
-      "rank": 9,
+      "rank": 11,
       "symbol": "CHIPS",
       "name": "CHIPS",
       "address": "0x902a2c40e7cb4d71cfdc3d364dcbc57ed6136b4c",
       "network": 4663,
-      "marketCapUsd": 118862.0936569874,
-      "holders": 78,
-      "change24h": 3878.929,
-      "priceUsd": 0.0001188620936569874
+      "marketCapUsd": 128948.66138704104,
+      "holders": 85,
+      "change24h": 4132.4375,
+      "priceUsd": 0.00012894866138704104
     },
     {
-      "rank": 10,
+      "rank": 12,
       "symbol": "西游记",
       "name": "西游记",
       "address": "0x5c2069d60269305cde8e67e0e18bfbb24a7b7777",
       "network": 56,
-      "marketCapUsd": 335538.79817890085,
-      "holders": 297,
-      "change24h": 6966.6256,
-      "priceUsd": 0.00033586771805656695
+      "marketCapUsd": 387267.63914698636,
+      "holders": 323,
+      "change24h": 7279.8719,
+      "priceUsd": 0.00038893476767438566
     },
     {
-      "rank": 11,
+      "rank": 13,
       "symbol": "Bigfoot",
       "name": "Bigfoot",
       "address": "3b7WvfRxRaoMuq4j6JWJzrL5mym3Km3QzfX5dqCopump",
       "network": 1399811149,
-      "marketCapUsd": 133516.9547587071,
-      "holders": 1434,
-      "change24h": 8700.824,
-      "priceUsd": 0.00013815591148812182
+      "marketCapUsd": 114171.61724728586,
+      "holders": 1467,
+      "change24h": 6455.5697,
+      "priceUsd": 0.00011813843324525872
     },
     {
-      "rank": 12,
+      "rank": 14,
       "symbol": "盛科锦",
       "name": "盛科锦",
       "address": "0x5c3412747964b7ae9a5024a23db749dbc3df7777",
       "network": 56,
-      "marketCapUsd": 69730.96469186415,
+      "marketCapUsd": 69564.20049901343,
       "holders": 80,
-      "change24h": 2214.1409,
-      "priceUsd": 6.980106867186112e-05
+      "change24h": 2205.4643,
+      "priceUsd": 6.963413682273759e-05
     },
     {
-      "rank": 13,
+      "rank": 15,
       "symbol": "XV",
       "name": "Tesla Super Inu",
       "address": "BjnxH6a3D6HQz1LRPsGX5TZmW3GwstpexSNrK2utpump",
       "network": 1399811149,
-      "marketCapUsd": 82654.36421758439,
-      "holders": 1346,
-      "change24h": 2305.4824,
-      "priceUsd": 8.578834605397644e-05
+      "marketCapUsd": 72608.26409320382,
+      "holders": 1373,
+      "change24h": 1932.7557,
+      "priceUsd": 7.536133083074515e-05
     },
     {
-      "rank": 14,
+      "rank": 16,
       "symbol": "猪小戒",
       "name": "天蓬元帅是我爹",
       "address": "0xb9f3b6fc8d3010c77dd128b567310be904ea7777",
       "network": 56,
-      "marketCapUsd": 111508.96536584938,
-      "holders": 811,
-      "change24h": 3120.6845,
-      "priceUsd": 0.00011150896536584938
+      "marketCapUsd": 74033.92342611396,
+      "holders": 794,
+      "change24h": 3231.6838,
+      "priceUsd": 7.403392342611396e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
