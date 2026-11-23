@@ -1,20 +1,20 @@
 {
-  "polledAt": "2026-11-23T09:15:24.532099Z",
-  "capturedAt": "2026-11-23T09:15:24.484Z",
+  "polledAt": "2026-11-23T10:15:23.269642Z",
+  "capturedAt": "2026-11-23T10:15:23.220Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 15,
+  "count": 17,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "GTA 6 Coin",
-      "name": "GTA6",
-      "address": "22Tpkc7KerY8SAa46h15vKaHsmtXc1S7YUTBcPcDpump",
+      "symbol": "Loaf",
+      "name": "Loaf Animals",
+      "address": "8Ugc1FHaeK6iXQrnUpztxhhNHqucFwaqC35A4Kjjpump",
       "network": 1399811149,
-      "marketCapUsd": 124807.68472736959,
-      "holders": 2704,
-      "change24h": 3585.782,
-      "priceUsd": 0.00012490092353474672
+      "marketCapUsd": 42152.32467196,
+      "holders": 347,
+      "change24h": 33.8458,
+      "priceUsd": 4.220314418325538e-05
     },
     {
       "rank": 2,
@@ -22,10 +22,10 @@
       "name": "Delulu",
       "address": "A37ozuu1D1pP1cM27y1HYkSArVQbgsZNN7Va74yNpump",
       "network": 1399811149,
-      "marketCapUsd": 61053.55486133657,
-      "holders": 381,
-      "change24h": 1539.3483,
-      "priceUsd": 6.345444036177789e-05
+      "marketCapUsd": 57192.056211534065,
+      "holders": 413,
+      "change24h": 1754.1199,
+      "priceUsd": 5.944109115815685e-05
     },
     {
       "rank": 3,
@@ -33,142 +33,164 @@
       "name": "Czius Maximus",
       "address": "0xbf96906300e7e3500b617dcee82bdd56adfc7777",
       "network": 56,
-      "marketCapUsd": 41401.87828354304,
-      "holders": 689,
-      "change24h": 811.4661,
-      "priceUsd": 4.140187828354304e-05
+      "marketCapUsd": 52694.734506001776,
+      "holders": 656,
+      "change24h": 797.5355,
+      "priceUsd": 5.269473450600178e-05
     },
     {
       "rank": 4,
+      "symbol": "币安人生模拟",
+      "name": "三亿分之一",
+      "address": "0x255184747a740a71bb732ee0fb180b27ec2d7777",
+      "network": 56,
+      "marketCapUsd": 38461.56308005985,
+      "holders": 453,
+      "change24h": 767.5037,
+      "priceUsd": 3.846156308005985e-05
+    },
+    {
+      "rank": 5,
       "symbol": "龟币",
       "name": "龟币",
       "address": "0xb85a9ad1c355384309cf6a390cf13a8896217777",
       "network": 56,
-      "marketCapUsd": 42797.24230373828,
-      "holders": 452,
-      "change24h": 722.8408,
-      "priceUsd": 4.279724230373828e-05
+      "marketCapUsd": 31395.58581561054,
+      "holders": 467,
+      "change24h": 772.9073,
+      "priceUsd": 3.139558581561054e-05
     },
     {
-      "rank": 5,
+      "rank": 6,
       "symbol": "P",
       "name": "P = NP",
       "address": "7Kn92xBncvzp8FUrmZKFnEDd7wS3iLAugr5A8vWBpump",
       "network": 1399811149,
-      "marketCapUsd": 62550.84496028898,
-      "holders": 263,
-      "change24h": 2213.1909,
-      "priceUsd": 6.45652411486066e-05
+      "marketCapUsd": 95819.78707756157,
+      "holders": 291,
+      "change24h": 3887.593,
+      "priceUsd": 9.890558094616536e-05
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "Fly",
       "name": "Just A Fly On A Wall",
       "address": "84tAcSK5L9kuQEVM8C8vMHXnfdA83nGBT2nYfSbPUcAc",
       "network": 1399811149,
-      "marketCapUsd": 197644.1766869252,
-      "holders": 2095,
-      "change24h": 9537.5494,
-      "priceUsd": 0.0002027379434442876
+      "marketCapUsd": 191387.57882879695,
+      "holders": 2092,
+      "change24h": 9624.0872,
+      "priceUsd": 0.00019632009801159845
     },
     {
-      "rank": 7,
+      "rank": 8,
       "symbol": "hCAT",
       "name": "Confidential Cat",
       "address": "2FYs4vApfj4ErsggpFDfzMv1WvxnyiLtzNEj84mS6TLh",
       "network": 1399811149,
-      "marketCapUsd": 100506.65313723439,
-      "holders": 553,
-      "change24h": 5344.2813,
-      "priceUsd": 0.00010050702276570701
+      "marketCapUsd": 115422.58435368238,
+      "holders": 564,
+      "change24h": 5969.2947,
+      "priceUsd": 0.00011542300883775611
     },
     {
-      "rank": 8,
+      "rank": 9,
       "symbol": "PRIVI",
       "name": "Privi",
       "address": "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp",
       "network": 1399811149,
-      "marketCapUsd": 42812.698637720685,
-      "holders": 442,
-      "change24h": 1782.5138,
-      "priceUsd": 4.499143317062394e-05
+      "marketCapUsd": 37199.034283368535,
+      "holders": 416,
+      "change24h": 2084.8671,
+      "priceUsd": 3.9092089922529286e-05
     },
     {
-      "rank": 9,
+      "rank": 10,
       "symbol": "cCAT",
       "name": "Confidential Cat",
       "address": "6aiyJ9uwGYRE3tM6rk7oeqLwpdDcdtVgU7aW2mFFpump",
       "network": 1399811149,
-      "marketCapUsd": 313944.69892820675,
-      "holders": 3266,
-      "change24h": 8215.8876,
-      "priceUsd": 0.00032705713320891765
+      "marketCapUsd": 303807.8482830214,
+      "holders": 3251,
+      "change24h": 9441.3525,
+      "priceUsd": 0.00031649689975665784
     },
     {
-      "rank": 10,
+      "rank": 11,
       "symbol": "ZOL",
       "name": "Zolana",
       "address": "AQfw8J74V17erZsmMz4oK474eVLBaP44gD33vVbhtHo5",
       "network": 1399811149,
-      "marketCapUsd": 163964.12851363854,
-      "holders": 1619,
-      "change24h": 7079.6542,
-      "priceUsd": 0.00016396412851363984
+      "marketCapUsd": 207473.24024835485,
+      "holders": 1602,
+      "change24h": 10329.045,
+      "priceUsd": 0.0002074732402483565
     },
     {
-      "rank": 11,
+      "rank": 12,
       "symbol": "murph",
       "name": "murph",
       "address": "BwgcBr42Zw5GsYQTiepwTng1pU2FRDK9oMvgj3tipump",
       "network": 1399811149,
-      "marketCapUsd": 45552.34669731693,
-      "holders": 231,
-      "change24h": 1631.6552,
-      "priceUsd": 4.7222806723970526e-05
+      "marketCapUsd": 48690.744259658415,
+      "holders": 230,
+      "change24h": 1877.5356,
+      "priceUsd": 5.047635453811843e-05
     },
     {
-      "rank": 12,
+      "rank": 13,
       "symbol": "蚁巢",
       "name": "蚁巢",
       "address": "0xe3b997158b6f83b2a1a73e35ccb8462e8993ffff",
       "network": 56,
-      "marketCapUsd": 34742.4932077632,
-      "holders": 441,
-      "change24h": 989.1333,
-      "priceUsd": 3.5375149455658074e-05
+      "marketCapUsd": 33211.239950938834,
+      "holders": 433,
+      "change24h": 900.2518,
+      "priceUsd": 3.381601227771596e-05
     },
     {
-      "rank": 13,
+      "rank": 14,
       "symbol": "MCAT",
       "name": "Moon Cat",
       "address": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi",
       "network": 1399811149,
-      "marketCapUsd": 388595.68301119935,
-      "holders": 3418,
-      "change24h": 2825.8931,
-      "priceUsd": 0.0003885976894629926
+      "marketCapUsd": 400261.39966507367,
+      "holders": 3401,
+      "change24h": 2658.0436,
+      "priceUsd": 0.0004002634663509331
     },
     {
-      "rank": 14,
+      "rank": 15,
       "symbol": "FOAM",
       "name": "Foam Trade",
       "address": "2MdCPWNFufmJSZhajSvi1yqBFTB24GQ4ipjNcB8Vpump",
       "network": 1399811149,
-      "marketCapUsd": 55621.90376933703,
-      "holders": 968,
-      "change24h": 2701.4294,
-      "priceUsd": 5.728436120739096e-05
+      "marketCapUsd": 53341.962425075006,
+      "holders": 966,
+      "change24h": 2440.2382,
+      "priceUsd": 5.493627574742564e-05
     },
     {
-      "rank": 15,
+      "rank": 16,
       "symbol": "大胆币",
       "name": "DCTY",
       "address": "0xaddab8a73b6cbc5272ebf37af159b666cdd37777",
       "network": 56,
-      "marketCapUsd": 31603.66775750809,
-      "holders": 930,
-      "change24h": 688.7988,
-      "priceUsd": 3.160366775750809e-05
+      "marketCapUsd": 31068.42353579888,
+      "holders": 923,
+      "change24h": 712.6376,
+      "priceUsd": 3.106842353579888e-05
+    },
+    {
+      "rank": 17,
+      "symbol": "AIBOSS",
+      "name": "AI FINAL BOSS ",
+      "address": "UqykpkcS7GHaJzw1pXfGy5t65KjS68tZtLeWpSHpump",
+      "network": 1399811149,
+      "marketCapUsd": 32714.563373222532,
+      "holders": 251,
+      "change24h": 2332.7093,
+      "priceUsd": 3.4152102504539376e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
