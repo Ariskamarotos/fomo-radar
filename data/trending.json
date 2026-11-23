@@ -1,31 +1,31 @@
 {
-  "polledAt": "2026-11-23T11:15:24.354478Z",
-  "capturedAt": "2026-11-23T11:12:26.514Z",
+  "polledAt": "2026-11-23T12:15:23.558412Z",
+  "capturedAt": "2026-11-23T12:14:50.414Z",
   "source": "live-fomo",
   "stale": false,
   "count": 14,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "SI",
+      "name": "Super Inu",
+      "address": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+      "network": 1399811149,
+      "marketCapUsd": 7461766.743536342,
+      "holders": 49180,
+      "change24h": 79.9204,
+      "priceUsd": 0.0075045619450433585
+    },
+    {
+      "rank": 2,
       "symbol": "CLAUDIA",
       "name": "Claudia",
       "address": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
       "network": 1399811149,
-      "marketCapUsd": 9385980.745141748,
-      "holders": 15573,
-      "change24h": -17.0205,
-      "priceUsd": 0.009919520103906905
-    },
-    {
-      "rank": 2,
-      "symbol": "GTA6",
-      "name": "GTA VI",
-      "address": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
-      "network": 1399811149,
-      "marketCapUsd": 1294410.485646875,
-      "holders": 85718,
-      "change24h": 21.8521,
-      "priceUsd": 0.0013112009742474188
+      "marketCapUsd": 9241382.799309371,
+      "holders": 15596,
+      "change24h": -13.8129,
+      "priceUsd": 0.00976670259131928
     },
     {
       "rank": 3,
@@ -33,120 +33,120 @@
       "name": "Rings",
       "address": "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring",
       "network": 1399811149,
-      "marketCapUsd": 3961793.443090886,
-      "holders": 3162,
-      "change24h": 43.2328,
-      "priceUsd": 0.0041097668036579466
+      "marketCapUsd": 3888565.1793737323,
+      "holders": 3193,
+      "change24h": 51.4073,
+      "priceUsd": 0.004034230015136114
     },
     {
       "rank": 4,
-      "symbol": "币安人生AI",
-      "name": "币安人生AI",
-      "address": "0x550b593fbb274e0e012f0d4b2113f98659978888",
+      "symbol": "FIST",
+      "name": "Fistbump",
+      "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
       "network": 56,
-      "marketCapUsd": 180276.73804178645,
-      "holders": 966,
-      "change24h": -25.4394,
-      "priceUsd": 0.00018027673804178645
+      "marketCapUsd": 47797728.83004107,
+      "holders": 294295,
+      "change24h": 8.2294,
+      "priceUsd": 0.2601697659540433
     },
     {
       "rank": 5,
-      "symbol": "MCAT",
-      "name": "Moon Cat",
-      "address": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi",
-      "network": 1399811149,
-      "marketCapUsd": 372806.6434611063,
-      "holders": 3366,
-      "change24h": 2757.0883,
-      "priceUsd": 0.00037280856838871356
-    },
-    {
-      "rank": 6,
       "symbol": "cCAT",
       "name": "Confidential Cat",
       "address": "6aiyJ9uwGYRE3tM6rk7oeqLwpdDcdtVgU7aW2mFFpump",
       "network": 1399811149,
-      "marketCapUsd": 298550.48250424565,
-      "holders": 3259,
-      "change24h": 8587.1284,
-      "priceUsd": 0.00031101995115485876
+      "marketCapUsd": 389006.7903917204,
+      "holders": 3264,
+      "change24h": 9607.9383,
+      "priceUsd": 0.00040525432058151405
     },
     {
-      "rank": 7,
-      "symbol": "CATE",
-      "name": "Cate",
-      "address": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-      "network": 1399811149,
-      "marketCapUsd": 17688032.35735349,
-      "holders": 144706,
-      "change24h": -6.2387,
-      "priceUsd": 0.018345885705947834
-    },
-    {
-      "rank": 8,
-      "symbol": "SI",
-      "name": "Super Inu",
-      "address": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
-      "network": 1399811149,
-      "marketCapUsd": 7057160.605441178,
-      "holders": 49122,
-      "change24h": 62.659,
-      "priceUsd": 0.007097635283966723
-    },
-    {
-      "rank": 9,
-      "symbol": "DCTY",
-      "name": "DacityCoin",
-      "address": "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump",
-      "network": 1399811149,
-      "marketCapUsd": 2338241.777135696,
-      "holders": 35854,
-      "change24h": -24.5676,
-      "priceUsd": 0.0024727227400523936
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "symbol": "StarsAI",
       "name": "StarsAI",
       "address": "0x81c3ab2c7ee773af2ac823b8cef3c430ef11f039",
       "network": 56,
-      "marketCapUsd": 849660.424159191,
-      "holders": 5196,
-      "change24h": -18.3008,
-      "priceUsd": 0.0009675712039320032
+      "marketCapUsd": 764912.9372738639,
+      "holders": 5171,
+      "change24h": -26.6834,
+      "priceUsd": 0.0008710629688956444
     },
     {
-      "rank": 11,
+      "rank": 7,
+      "symbol": "MCAT",
+      "name": "Moon Cat",
+      "address": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi",
+      "network": 1399811149,
+      "marketCapUsd": 371936.7361847929,
+      "holders": 3367,
+      "change24h": 2535.5927,
+      "priceUsd": 0.00037193865662077277
+    },
+    {
+      "rank": 8,
       "symbol": "GM",
       "name": "GREEN MORNING",
       "address": "0x13920fe6467e9e3c852b8d365a036c995f0f7777",
       "network": 56,
-      "marketCapUsd": 1212434.3792991724,
-      "holders": 6197,
-      "change24h": 7.9324,
-      "priceUsd": 0.00121243437930644
+      "marketCapUsd": 1212880.988415573,
+      "holders": 6196,
+      "change24h": 13.466,
+      "priceUsd": 0.0012128809884228433
     },
     {
-      "rank": 12,
-      "symbol": "MASK",
-      "name": "Nullmask",
-      "address": "HuAXPyDWDaMYFKuwQHpqL1oPnj93zdzWmtvFGzCeCUa7",
+      "rank": 9,
+      "symbol": "CATE",
+      "name": "Cate",
+      "address": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
       "network": 1399811149,
-      "marketCapUsd": 17798571.851224277,
-      "holders": 17310,
-      "change24h": 12.1508,
-      "priceUsd": 0.018759684121463435
+      "marketCapUsd": 17848879.663917754,
+      "holders": 144707,
+      "change24h": -4.3196,
+      "priceUsd": 0.018512716142217053
     },
     {
-      "rank": 13,
+      "rank": 10,
+      "symbol": "DCTY",
+      "name": "DacityCoin",
+      "address": "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump",
+      "network": 1399811149,
+      "marketCapUsd": 2478581.744630609,
+      "holders": 35850,
+      "change24h": -31.7312,
+      "priceUsd": 0.0026211341799454832
+    },
+    {
+      "rank": 11,
       "symbol": "FLOAT",
       "name": "FLOAT",
       "address": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
       "network": 1399811149,
-      "marketCapUsd": 2980906.3826686176,
-      "holders": 13245,
-      "change24h": 10.4519,
-      "priceUsd": 0.00350893758524415
+      "marketCapUsd": 2911095.7147849416,
+      "holders": 13210,
+      "change24h": 20.8201,
+      "priceUsd": 0.0034267608091426718
+    },
+    {
+      "rank": 12,
+      "symbol": "GTA6",
+      "name": "GTA VI",
+      "address": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+      "network": 1399811149,
+      "marketCapUsd": 1337459.8759200198,
+      "holders": 85710,
+      "change24h": 26.4054,
+      "priceUsd": 0.0013548087811161155
+    },
+    {
+      "rank": 13,
+      "symbol": "WASTED",
+      "name": "WASTED",
+      "address": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
+      "network": 1399811149,
+      "marketCapUsd": 588372.2746773992,
+      "holders": 8702,
+      "change24h": -25.925,
+      "priceUsd": 0.0005997180418371926
     },
     {
       "rank": 14,
@@ -154,10 +154,10 @@
       "name": "Nigga Its Over",
       "address": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
       "network": 1399811149,
-      "marketCapUsd": 1198264.3763465555,
-      "holders": 9069,
-      "change24h": -13.3413,
-      "priceUsd": 0.0012576392964849345
+      "marketCapUsd": 1155959.920010596,
+      "holders": 9049,
+      "change24h": -13.867,
+      "priceUsd": 0.0012132386218468808
     }
   ],
   "warning": "Unofficial third-party API. Not an independently verified security audit."
