@@ -1,97 +1,97 @@
 {
-  "polledAt": "2026-11-23T17:15:24.534058Z",
-  "capturedAt": "2026-11-23T17:15:24.481Z",
+  "polledAt": "2026-11-23T18:15:25.233063Z",
+  "capturedAt": "2026-11-23T18:15:25.212Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 16,
+  "count": 15,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "reloaded",
-      "name": "reloaded",
-      "address": "242Kqbd6jhqoMmqxyAwGnhXWUuS543fgRsm7efScpump",
+      "symbol": "Chip",
+      "name": "Chip",
+      "address": "HQSdUqaChwhvurp9kxdFLvXARRzWKV97GAsznt7vpump",
       "network": 1399811149,
-      "marketCapUsd": 37276.048617487744,
-      "holders": 2259,
-      "change24h": 168.9595,
-      "priceUsd": 3.727604861748774e-05
+      "marketCapUsd": 45824.89132374311,
+      "holders": 330,
+      "change24h": 75.9402,
+      "priceUsd": 4.681760138865345e-05
     },
     {
       "rank": 2,
+      "symbol": "JENSEN",
+      "name": "Jensen Huang Coin",
+      "address": "Qwhtz9vcrNdSLBXTDAJCHSDw9NwaL1sCgWo9NmQpump",
+      "network": 1399811149,
+      "marketCapUsd": 68230.55349264224,
+      "holders": 2264,
+      "change24h": 906.0607,
+      "priceUsd": 6.823055349264224e-05
+    },
+    {
+      "rank": 3,
+      "symbol": "LOVELESS",
+      "name": "LOVELESS",
+      "address": "3CiTPX1JDo6QbVs59mm7EJBqt1i3GGpsVsFusU3Lpump",
+      "network": 1399811149,
+      "marketCapUsd": 78224.8889984926,
+      "holders": 2418,
+      "change24h": 112.6727,
+      "priceUsd": 7.822488899849261e-05
+    },
+    {
+      "rank": 4,
       "symbol": "SIGIL",
       "name": "Sigil",
       "address": "0x1e786d31934fc64f450ee47e3f61b41516312f4e",
       "network": 4663,
-      "marketCapUsd": 50544.80567550852,
-      "holders": 210,
-      "change24h": 1202.9056,
-      "priceUsd": 5.148282722398603e-05
+      "marketCapUsd": 41214.49137773601,
+      "holders": 227,
+      "change24h": 1097.9357,
+      "priceUsd": 4.206208452001602e-05
     },
     {
-      "rank": 3,
-      "symbol": "JACKET",
-      "name": "The Jacket Stays On",
-      "address": "GFwhzsWRcyLc72aoKQsznJZwabBFpAzx5qr74gX9pump",
-      "network": 1399811149,
-      "marketCapUsd": 68562.19359481461,
-      "holders": 1792,
-      "change24h": 1488.2534,
-      "priceUsd": 6.883354351246447e-05
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "symbol": "FUCK!",
       "name": "FUCK! FUCK! FUCK!",
       "address": "CSjwLiCLyaJqXQm9XCV3LdYWMYswbZ7JQ71JKX77pump",
       "network": 1399811149,
-      "marketCapUsd": 98296.30897275856,
-      "holders": 833,
-      "change24h": 437.3723,
-      "priceUsd": 0.00010226900046494116
+      "marketCapUsd": 35851.93749776015,
+      "holders": 850,
+      "change24h": 156.6553,
+      "priceUsd": 3.73009103896628e-05
     },
     {
-      "rank": 5,
+      "rank": 6,
       "symbol": "BRA",
       "name": "just a  bra",
       "address": "0xcef0d92ec8aa2373220ce99ee84b522025cb7777",
       "network": 56,
-      "marketCapUsd": 128416.07868625439,
-      "holders": 673,
-      "change24h": 3966.1974,
-      "priceUsd": 0.00012841607868625438
+      "marketCapUsd": 99479.2652050746,
+      "holders": 571,
+      "change24h": 81.5009,
+      "priceUsd": 9.947926520507459e-05
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "HUANG",
       "name": "Official Jensen Huang",
       "address": "4kFR6GDuAJRaqimh21uJhhfwPrGbFW34J6UXEWUhpump",
       "network": 1399811149,
-      "marketCapUsd": 306561.17405175156,
-      "holders": 1780,
-      "change24h": 10648.8871,
-      "priceUsd": 0.00030965583770746957
-    },
-    {
-      "rank": 7,
-      "symbol": "TUGI",
-      "name": "The Gambling Retard",
-      "address": "Ddnd1DGVjtE2DT3ZjDXZsNzu6oHbe3GEj5VE9x6avYsA",
-      "network": 1399811149,
-      "marketCapUsd": 37883.63384716054,
-      "holders": 336,
-      "change24h": 1355.29,
-      "priceUsd": 3.979057717781718e-05
+      "marketCapUsd": 114439.6510964444,
+      "holders": 1281,
+      "change24h": 277.7562,
+      "priceUsd": 0.0001155949062163168
     },
     {
       "rank": 8,
-      "symbol": "FLOP",
-      "name": "Flop Labs",
-      "address": "7Un1q9BuPTsAVYHDKP9LdNWNW3V2WA1fSX81TF2Fpump",
+      "symbol": "TOGI",
+      "name": "The Gambling Retard",
+      "address": "5EBsafq3gSutzc9BBieAe5F6YWxstTNgbsJa1iZ737Zx",
       "network": 1399811149,
-      "marketCapUsd": 131949.31719290937,
-      "holders": 2655,
-      "change24h": 2578.8263,
-      "priceUsd": 0.00013215439274355626
+      "marketCapUsd": 34265.32853099317,
+      "holders": 421,
+      "change24h": -40.5584,
+      "priceUsd": 3.561700719308037e-05
     },
     {
       "rank": 9,
@@ -99,10 +99,10 @@
       "name": "Nigga Its Not Over",
       "address": "BqekG1RSPUthaKfStu7Uvyvr1eR6TchrQMp1M5r5pump",
       "network": 1399811149,
-      "marketCapUsd": 62412.13715054997,
-      "holders": 848,
-      "change24h": 2311.3794,
-      "priceUsd": 6.439208060544786e-05
+      "marketCapUsd": 40671.84034736695,
+      "holders": 746,
+      "change24h": 29.0571,
+      "priceUsd": 4.196240318139381e-05
     },
     {
       "rank": 10,
@@ -110,10 +110,10 @@
       "name": "龟币",
       "address": "0xb85a9ad1c355384309cf6a390cf13a8896217777",
       "network": 56,
-      "marketCapUsd": 33456.830654695346,
-      "holders": 414,
-      "change24h": 794.3005,
-      "priceUsd": 3.345683065469535e-05
+      "marketCapUsd": 33518.44980247975,
+      "holders": 419,
+      "change24h": 59.6183,
+      "priceUsd": 3.351844980247975e-05
     },
     {
       "rank": 11,
@@ -121,10 +121,10 @@
       "name": "Just A Fly On A Wall",
       "address": "84tAcSK5L9kuQEVM8C8vMHXnfdA83nGBT2nYfSbPUcAc",
       "network": 1399811149,
-      "marketCapUsd": 43001.44867826824,
-      "holders": 1702,
-      "change24h": 1690.3908,
-      "priceUsd": 4.433113752883239e-05
+      "marketCapUsd": 38655.36841055842,
+      "holders": 1647,
+      "change24h": 28.0962,
+      "priceUsd": 3.985066796370917e-05
     },
     {
       "rank": 12,
@@ -132,10 +132,10 @@
       "name": "Confidential Cat",
       "address": "2FYs4vApfj4ErsggpFDfzMv1WvxnyiLtzNEj84mS6TLh",
       "network": 1399811149,
-      "marketCapUsd": 33064.76998520881,
-      "holders": 442,
-      "change24h": 1618.7316,
-      "priceUsd": 3.306489158591927e-05
+      "marketCapUsd": 73935.92316286494,
+      "holders": 454,
+      "change24h": 39.1089,
+      "priceUsd": 7.393619507344496e-05
     },
     {
       "rank": 13,
@@ -143,10 +143,10 @@
       "name": "Privi",
       "address": "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp",
       "network": 1399811149,
-      "marketCapUsd": 56269.2548607464,
-      "holders": 489,
-      "change24h": 2954.5354,
-      "priceUsd": 5.913279237664192e-05
+      "marketCapUsd": 65815.61108911874,
+      "holders": 505,
+      "change24h": 87.5358,
+      "priceUsd": 6.916496184828002e-05
     },
     {
       "rank": 14,
@@ -154,10 +154,10 @@
       "name": "Confidential Cat",
       "address": "6aiyJ9uwGYRE3tM6rk7oeqLwpdDcdtVgU7aW2mFFpump",
       "network": 1399811149,
-      "marketCapUsd": 168073.90640880502,
-      "holders": 3057,
-      "change24h": 3968.0393,
-      "priceUsd": 0.00017509381453683858
+      "marketCapUsd": 138517.0856247056,
+      "holders": 2957,
+      "change24h": 283.8475,
+      "priceUsd": 0.0001443025001249391
     },
     {
       "rank": 15,
@@ -165,21 +165,10 @@
       "name": "Zolana",
       "address": "AQfw8J74V17erZsmMz4oK474eVLBaP44gD33vVbhtHo5",
       "network": 1399811149,
-      "marketCapUsd": 84778.22164475605,
-      "holders": 1343,
-      "change24h": 3494.132,
-      "priceUsd": 8.477822164475673e-05
-    },
-    {
-      "rank": 16,
-      "symbol": "murph",
-      "name": "murph",
-      "address": "BwgcBr42Zw5GsYQTiepwTng1pU2FRDK9oMvgj3tipump",
-      "network": 1399811149,
-      "marketCapUsd": 33419.65017183618,
-      "holders": 172,
-      "change24h": 1207.083,
-      "priceUsd": 3.4645231578666526e-05
+      "marketCapUsd": 148443.66027609,
+      "holders": 1408,
+      "change24h": 134.8453,
+      "priceUsd": 0.0001484436602760912
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
