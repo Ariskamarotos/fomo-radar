@@ -1,119 +1,119 @@
 {
-  "polledAt": "2026-11-23T08:15:31.798470Z",
-  "capturedAt": "2026-11-23T08:10:32.656Z",
+  "polledAt": "2026-11-23T09:15:24.532099Z",
+  "capturedAt": "2026-11-23T09:15:24.484Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 16,
+  "count": 15,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "MCAT",
-      "name": "Moon Cat",
-      "address": "HDQcw71Hp4dL8hvM3Bf1smXYGaFCGCJqTZ7uYHsEpump",
+      "symbol": "GTA 6 Coin",
+      "name": "GTA6",
+      "address": "22Tpkc7KerY8SAa46h15vKaHsmtXc1S7YUTBcPcDpump",
       "network": 1399811149,
-      "marketCapUsd": 89289.89364555158,
-      "holders": 1586,
-      "change24h": 1485.9746,
-      "priceUsd": 8.928989364555158e-05
+      "marketCapUsd": 124807.68472736959,
+      "holders": 2704,
+      "change24h": 3585.782,
+      "priceUsd": 0.00012490092353474672
     },
     {
       "rank": 2,
-      "symbol": "币安人生模拟",
-      "name": "三亿分之一",
-      "address": "0x255184747a740a71bb732ee0fb180b27ec2d7777",
-      "network": 56,
-      "marketCapUsd": 38413.64087843503,
-      "holders": 494,
-      "change24h": 1702.9606,
-      "priceUsd": 3.841364087843503e-05
+      "symbol": "DELULU",
+      "name": "Delulu",
+      "address": "A37ozuu1D1pP1cM27y1HYkSArVQbgsZNN7Va74yNpump",
+      "network": 1399811149,
+      "marketCapUsd": 61053.55486133657,
+      "holders": 381,
+      "change24h": 1539.3483,
+      "priceUsd": 6.345444036177789e-05
     },
     {
       "rank": 3,
-      "symbol": "Rockstar",
-      "name": "Rockstar Games",
-      "address": "7tKi2VU7iP58aMM9fuRZbwdSE7sDeTGNYK9vHxXppump",
-      "network": 1399811149,
-      "marketCapUsd": 58467.6042332681,
-      "holders": 2680,
-      "change24h": 4519.6357,
-      "priceUsd": 5.84676042332681e-05
+      "symbol": "CM",
+      "name": "Czius Maximus",
+      "address": "0xbf96906300e7e3500b617dcee82bdd56adfc7777",
+      "network": 56,
+      "marketCapUsd": 41401.87828354304,
+      "holders": 689,
+      "change24h": 811.4661,
+      "priceUsd": 4.140187828354304e-05
     },
     {
       "rank": 4,
+      "symbol": "龟币",
+      "name": "龟币",
+      "address": "0xb85a9ad1c355384309cf6a390cf13a8896217777",
+      "network": 56,
+      "marketCapUsd": 42797.24230373828,
+      "holders": 452,
+      "change24h": 722.8408,
+      "priceUsd": 4.279724230373828e-05
+    },
+    {
+      "rank": 5,
       "symbol": "P",
       "name": "P = NP",
       "address": "7Kn92xBncvzp8FUrmZKFnEDd7wS3iLAugr5A8vWBpump",
       "network": 1399811149,
-      "marketCapUsd": 54792.22438164983,
-      "holders": 269,
-      "change24h": 1433.0307,
-      "priceUsd": 5.6556760864153154e-05
+      "marketCapUsd": 62550.84496028898,
+      "holders": 263,
+      "change24h": 2213.1909,
+      "priceUsd": 6.45652411486066e-05
     },
     {
-      "rank": 5,
+      "rank": 6,
       "symbol": "Fly",
       "name": "Just A Fly On A Wall",
       "address": "84tAcSK5L9kuQEVM8C8vMHXnfdA83nGBT2nYfSbPUcAc",
       "network": 1399811149,
-      "marketCapUsd": 264878.77501501434,
-      "holders": 2053,
-      "change24h": 8351.8182,
-      "priceUsd": 0.0002717053394071083
+      "marketCapUsd": 197644.1766869252,
+      "holders": 2095,
+      "change24h": 9537.5494,
+      "priceUsd": 0.0002027379434442876
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "hCAT",
       "name": "Confidential Cat",
       "address": "2FYs4vApfj4ErsggpFDfzMv1WvxnyiLtzNEj84mS6TLh",
       "network": 1399811149,
-      "marketCapUsd": 123862.92118616638,
-      "holders": 549,
-      "change24h": 6080.4857,
-      "priceUsd": 0.00012386304985867553
+      "marketCapUsd": 100506.65313723439,
+      "holders": 553,
+      "change24h": 5344.2813,
+      "priceUsd": 0.00010050702276570701
     },
     {
-      "rank": 7,
+      "rank": 8,
       "symbol": "PRIVI",
       "name": "Privi",
       "address": "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp",
       "network": 1399811149,
-      "marketCapUsd": 35700.64534101521,
-      "holders": 443,
-      "change24h": 1990.164,
-      "priceUsd": 3.7517448096421764e-05
+      "marketCapUsd": 42812.698637720685,
+      "holders": 442,
+      "change24h": 1782.5138,
+      "priceUsd": 4.499143317062394e-05
     },
     {
-      "rank": 8,
+      "rank": 9,
       "symbol": "cCAT",
       "name": "Confidential Cat",
       "address": "6aiyJ9uwGYRE3tM6rk7oeqLwpdDcdtVgU7aW2mFFpump",
       "network": 1399811149,
-      "marketCapUsd": 308824.02675341495,
-      "holders": 3292,
-      "change24h": 9757.8654,
-      "priceUsd": 0.0003217225874519496
+      "marketCapUsd": 313944.69892820675,
+      "holders": 3266,
+      "change24h": 8215.8876,
+      "priceUsd": 0.00032705713320891765
     },
     {
-      "rank": 9,
+      "rank": 10,
       "symbol": "ZOL",
       "name": "Zolana",
       "address": "AQfw8J74V17erZsmMz4oK474eVLBaP44gD33vVbhtHo5",
       "network": 1399811149,
-      "marketCapUsd": 180671.33786090792,
-      "holders": 1622,
-      "change24h": 7117.9105,
-      "priceUsd": 0.00018067133786090937
-    },
-    {
-      "rank": 10,
-      "symbol": "GOKU",
-      "name": "Lil Goku",
-      "address": "9M4PDviTGpG41e7SeKyJqwv71Nnq9EUwgC2ib1bppump",
-      "network": 1399811149,
-      "marketCapUsd": 39819.57203422281,
-      "holders": 431,
-      "change24h": 1703.3516,
-      "priceUsd": 3.981957203422281e-05
+      "marketCapUsd": 163964.12851363854,
+      "holders": 1619,
+      "change24h": 7079.6542,
+      "priceUsd": 0.00016396412851363984
     },
     {
       "rank": 11,
@@ -121,10 +121,10 @@
       "name": "murph",
       "address": "BwgcBr42Zw5GsYQTiepwTng1pU2FRDK9oMvgj3tipump",
       "network": 1399811149,
-      "marketCapUsd": 42366.95762208321,
-      "holders": 243,
-      "change24h": 1798.7937,
-      "priceUsd": 4.392060555220808e-05
+      "marketCapUsd": 45552.34669731693,
+      "holders": 231,
+      "change24h": 1631.6552,
+      "priceUsd": 4.7222806723970526e-05
     },
     {
       "rank": 12,
@@ -132,10 +132,10 @@
       "name": "蚁巢",
       "address": "0xe3b997158b6f83b2a1a73e35ccb8462e8993ffff",
       "network": 56,
-      "marketCapUsd": 31485.622996304897,
-      "holders": 446,
-      "change24h": 1004.6135,
-      "priceUsd": 3.205897206450084e-05
+      "marketCapUsd": 34742.4932077632,
+      "holders": 441,
+      "change24h": 989.1333,
+      "priceUsd": 3.5375149455658074e-05
     },
     {
       "rank": 13,
@@ -143,10 +143,10 @@
       "name": "Moon Cat",
       "address": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi",
       "network": 1399811149,
-      "marketCapUsd": 340105.96661079215,
-      "holders": 3467,
-      "change24h": 2571.0124,
-      "priceUsd": 0.0003401077226936732
+      "marketCapUsd": 388595.68301119935,
+      "holders": 3418,
+      "change24h": 2825.8931,
+      "priceUsd": 0.0003885976894629926
     },
     {
       "rank": 14,
@@ -154,10 +154,10 @@
       "name": "Foam Trade",
       "address": "2MdCPWNFufmJSZhajSvi1yqBFTB24GQ4ipjNcB8Vpump",
       "network": 1399811149,
-      "marketCapUsd": 41118.64120875842,
-      "holders": 980,
-      "change24h": 2152.9551,
-      "priceUsd": 4.2347617318667395e-05
+      "marketCapUsd": 55621.90376933703,
+      "holders": 968,
+      "change24h": 2701.4294,
+      "priceUsd": 5.728436120739096e-05
     },
     {
       "rank": 15,
@@ -165,21 +165,10 @@
       "name": "DCTY",
       "address": "0xaddab8a73b6cbc5272ebf37af159b666cdd37777",
       "network": 56,
-      "marketCapUsd": 32256.942927609445,
-      "holders": 948,
-      "change24h": 739.1019,
-      "priceUsd": 3.2256942927609444e-05
-    },
-    {
-      "rank": 16,
-      "symbol": "GOAT",
-      "name": "Greatest Of All Time",
-      "address": "0x4af86d5862cf3d2eab658fa03b32d7fda15d7777",
-      "network": 56,
-      "marketCapUsd": 61885.59579131928,
-      "holders": 982,
-      "change24h": 1582.9417,
-      "priceUsd": 6.188559579131928e-05
+      "marketCapUsd": 31603.66775750809,
+      "holders": 930,
+      "change24h": 688.7988,
+      "priceUsd": 3.160366775750809e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
