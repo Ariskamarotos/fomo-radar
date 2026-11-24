@@ -1,42 +1,42 @@
 {
-  "polledAt": "2026-11-24T05:15:23.720267Z",
-  "capturedAt": "2026-11-24T05:15:17.756Z",
+  "polledAt": "2026-11-24T06:15:25.672937Z",
+  "capturedAt": "2026-11-24T06:11:50.256Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 12,
+  "count": 13,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "Cilembu",
-      "name": "Cilembu cat",
-      "address": "9oSSnxP6gD4SYPSH8mUNYkoWjKPDWT5F4fucL6CHpump",
+      "symbol": "JENSEN",
+      "name": "Jensen Is Back",
+      "address": "5qZGqAwW7XGWSKQdB5EXQHVUveSVN99GxhCVh1Xrpump",
       "network": 1399811149,
-      "marketCapUsd": 54705.09346242676,
-      "holders": 743,
-      "change24h": 2442.1158,
-      "priceUsd": 5.7009440068882955e-05
+      "marketCapUsd": 49550.00389870315,
+      "holders": 1854,
+      "change24h": 1138.6535,
+      "priceUsd": 4.955000389870315e-05
     },
     {
       "rank": 2,
-      "symbol": "Rockstar",
-      "name": "Rockstar Games",
-      "address": "26qt9VoxJXM9fr7knJ1FsSvYJG7cJqMZ4ZRwgyQhpump",
-      "network": 1399811149,
-      "marketCapUsd": 120406.66562602598,
-      "holders": 2707,
-      "change24h": 3230.0243,
-      "priceUsd": 0.00012040666562602598
+      "symbol": "蒼井そら",
+      "name": "蒼井そら",
+      "address": "0xb86183fa2a6f2fe5274bf41f71023d3797e87777",
+      "network": 56,
+      "marketCapUsd": 35846.655536883416,
+      "holders": 425,
+      "change24h": 873.6814,
+      "priceUsd": 3.584665553688342e-05
     },
     {
       "rank": 3,
-      "symbol": "GTA 6 Coin",
-      "name": "GTA6",
-      "address": "2XN8FiFnqQjHdvtDwZNT5W3x1PxPQCNcnMCzBTnfpump",
+      "symbol": "ANT",
+      "name": "Anthropic Coin",
+      "address": "ASrmY9NrtEEwsApg4xwKYfZSsMSpSm1S9FH1onuFpump",
       "network": 1399811149,
-      "marketCapUsd": 52788.83583650526,
-      "holders": 2689,
-      "change24h": 3453.1662,
-      "priceUsd": 5.291844783151721e-05
+      "marketCapUsd": 64268.30947888654,
+      "holders": 2824,
+      "change24h": 6109.3154,
+      "priceUsd": 6.426830947888654e-05
     },
     {
       "rank": 4,
@@ -44,10 +44,10 @@
       "name": "Flatulencecoin",
       "address": "Gq2AuvpacDeruqVRCqyZqZJJbDgYDXYDGxWQgWXhpump",
       "network": 1399811149,
-      "marketCapUsd": 48014.97405345671,
-      "holders": 1637,
-      "change24h": 1425.4302,
-      "priceUsd": 5.0154404003344194e-05
+      "marketCapUsd": 61264.88232006318,
+      "holders": 1647,
+      "change24h": 1680.1183,
+      "priceUsd": 6.399474012198458e-05
     },
     {
       "rank": 5,
@@ -55,10 +55,10 @@
       "name": "Chibi Neko",
       "address": "4ZgqnNi53sRKKegFpYefFjsFE6zQ3T64Xkavcoh7pump",
       "network": 1399811149,
-      "marketCapUsd": 100826.51318923305,
-      "holders": 1050,
-      "change24h": 4339.8683,
-      "priceUsd": 0.0001031541881454487
+      "marketCapUsd": 43982.88144849241,
+      "holders": 1061,
+      "change24h": 3596.5049,
+      "priceUsd": 4.4998267663998176e-05
     },
     {
       "rank": 6,
@@ -66,10 +66,10 @@
       "name": "Claudio",
       "address": "5St93zSNQvWxK22Cj5mJBXcjUNNB452h5uNmrttSpump",
       "network": 1399811149,
-      "marketCapUsd": 38922.84536005863,
-      "holders": 5329,
-      "change24h": 1216.0157,
-      "priceUsd": 3.904424814605919e-05
+      "marketCapUsd": 45936.93743691117,
+      "holders": 5351,
+      "change24h": 1273.733,
+      "priceUsd": 4.6080217614235957e-05
     },
     {
       "rank": 7,
@@ -77,10 +77,10 @@
       "name": "Dibs Bot",
       "address": "E95f6TRF7Rw2GAXuzCahrz2LEhsMzrYHcHiV3N1Ppump",
       "network": 1399811149,
-      "marketCapUsd": 35273.58476516135,
-      "holders": 126,
-      "change24h": 1590.132,
-      "priceUsd": 3.527358476516135e-05
+      "marketCapUsd": 34073.15487472597,
+      "holders": 123,
+      "change24h": 1585.5038,
+      "priceUsd": 3.4073154874725976e-05
     },
     {
       "rank": 8,
@@ -88,10 +88,10 @@
       "name": "Jimmy Rustles",
       "address": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
       "network": 1399811149,
-      "marketCapUsd": 415929.4689950602,
-      "holders": 2312,
-      "change24h": 18458.4976,
-      "priceUsd": 0.00044540812030311415
+      "marketCapUsd": 296075.650800966,
+      "holders": 2399,
+      "change24h": 13075.5902,
+      "priceUsd": 0.00031705976354453913
     },
     {
       "rank": 9,
@@ -99,10 +99,10 @@
       "name": "pepe",
       "address": "26P9wkcmvvkDQT9zkQ5v9KxNpornnZcF2muwjuf3pump",
       "network": 1399811149,
-      "marketCapUsd": 63795.60546283428,
-      "holders": 2779,
-      "change24h": 2190.0804,
-      "priceUsd": 6.520682457912254e-05
+      "marketCapUsd": 56262.69568627883,
+      "holders": 2701,
+      "change24h": 1794.955,
+      "priceUsd": 5.750727971538787e-05
     },
     {
       "rank": 10,
@@ -110,10 +110,10 @@
       "name": "SUPER CLAUDIA INU",
       "address": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump",
       "network": 1399811149,
-      "marketCapUsd": 61474.5455284048,
-      "holders": 856,
-      "change24h": 2279.3098,
-      "priceUsd": 6.14745455284048e-05
+      "marketCapUsd": 56421.84141114648,
+      "holders": 900,
+      "change24h": 2162.4415,
+      "priceUsd": 5.642184141114648e-05
     },
     {
       "rank": 11,
@@ -121,10 +121,10 @@
       "name": "Sigil",
       "address": "0x1e786d31934fc64f450ee47e3f61b41516312f4e",
       "network": 4663,
-      "marketCapUsd": 36577.905956582516,
-      "holders": 275,
-      "change24h": 1159.993,
-      "priceUsd": 3.804440241664478e-05
+      "marketCapUsd": 38150.807255927306,
+      "holders": 276,
+      "change24h": 1213.645,
+      "priceUsd": 3.968036512224543e-05
     },
     {
       "rank": 12,
@@ -132,10 +132,21 @@
       "name": "Nigga Its Not Over",
       "address": "BqekG1RSPUthaKfStu7Uvyvr1eR6TchrQMp1M5r5pump",
       "network": 1399811149,
-      "marketCapUsd": 49023.3361678552,
-      "holders": 1003,
-      "change24h": 1164.6982,
-      "priceUsd": 5.057890133176612e-05
+      "marketCapUsd": 46367.39442541493,
+      "holders": 994,
+      "change24h": 1260.6345,
+      "priceUsd": 4.783868359395559e-05
+    },
+    {
+      "rank": 13,
+      "symbol": "BOBCAT",
+      "name": "Bobcat",
+      "address": "6GJQL9SciHTqVoRV9Rj3aAQePL4D8ngX64m2hMDnpump",
+      "network": 1399811149,
+      "marketCapUsd": 32544.348355876045,
+      "holders": 286,
+      "change24h": 1485.6208,
+      "priceUsd": 3.2788213175809455e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
