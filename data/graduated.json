@@ -1,141 +1,108 @@
 {
-  "polledAt": "2026-11-24T15:15:23.719316Z",
-  "capturedAt": "2026-11-24T15:15:22.565Z",
+  "polledAt": "2026-11-24T16:15:31.506767Z",
+  "capturedAt": "2026-11-24T16:12:32.222Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 12,
+  "count": 9,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "INUMORTAL",
-      "name": "INUMORTAL",
-      "address": "489Up4FvAhZwTdvmYptGrxCZeWkNyKUhS4sLuBwqpump",
+      "symbol": "wif",
+      "name": "catwifhat",
+      "address": "6sbUBNuXyVQVHsoaUGYAiL3Pyntpyjm3yHZP1YfHYMzH",
       "network": 1399811149,
-      "marketCapUsd": 90984.76161678779,
-      "holders": 1735,
-      "change24h": 1255.2951,
-      "priceUsd": 9.098476161678779e-05
+      "marketCapUsd": 62487.09102663476,
+      "holders": 799,
+      "change24h": 2464.1069,
+      "priceUsd": 6.491385184450058e-05
     },
     {
       "rank": 2,
+      "symbol": "GROKIA",
+      "name": "Grokia",
+      "address": "839tbShiwKqupNzfmsYuKapR1HnHjZb2wriT1xUspump",
+      "network": 1399811149,
+      "marketCapUsd": 35270.567026828016,
+      "holders": 2767,
+      "change24h": 1712.2241,
+      "priceUsd": 3.527056702682802e-05
+    },
+    {
+      "rank": 3,
+      "symbol": "WORTHLESS",
+      "name": "Worthless Coin",
+      "address": "ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump",
+      "network": 1399811149,
+      "marketCapUsd": 54214.94337251224,
+      "holders": 951,
+      "change24h": 1574.5606,
+      "priceUsd": 5.614941744627813e-05
+    },
+    {
+      "rank": 4,
       "symbol": "Memeployed",
       "name": "Memeployed",
       "address": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn",
       "network": 1399811149,
-      "marketCapUsd": 92180.49886573023,
-      "holders": 591,
-      "change24h": 2078.584,
-      "priceUsd": 9.557500128879469e-05
+      "marketCapUsd": 121263.91085188247,
+      "holders": 690,
+      "change24h": 3651.4268,
+      "priceUsd": 0.0001257293958978743
     },
     {
-      "rank": 3,
-      "symbol": "GTAVI",
-      "name": "Official Grand Theft Auto VI",
-      "address": "5Ay5pibwEPfmZz9qehs5i7HQhtqWktGtbVHey5BJpump",
-      "network": 1399811149,
-      "marketCapUsd": 110825.28026988533,
-      "holders": 2795,
-      "change24h": 3514.4285,
-      "priceUsd": 0.00011082528026988534
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "symbol": "Slingoor",
       "name": "The White Bull",
       "address": "ANvsL4A6tJKAXJsPg7XVSHQA7KYmFcpW42jPuhVtpump",
       "network": 1399811149,
-      "marketCapUsd": 135975.2919749681,
-      "holders": 1246,
-      "change24h": 4063.7034,
-      "priceUsd": 0.00013976463771162609
+      "marketCapUsd": 107362.01534529908,
+      "holders": 1184,
+      "change24h": 4355.4301,
+      "priceUsd": 0.00011035396917175316
     },
     {
-      "rank": 5,
+      "rank": 6,
       "symbol": "b",
       "name": "b",
       "address": "0xc7459ba9ecef1ff4adfc613a2cd52bb2f0da7777",
       "network": 56,
-      "marketCapUsd": 192474.7261943485,
-      "holders": 1122,
-      "change24h": 4937.7551,
-      "priceUsd": 0.0001924747261943485
+      "marketCapUsd": 176269.97460328983,
+      "holders": 1156,
+      "change24h": 5626.0091,
+      "priceUsd": 0.00017626997460328984
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "pipi",
       "name": "pipi",
       "address": "0x762fa558c23a09516017dd798e82cbc28d027777",
       "network": 56,
-      "marketCapUsd": 63802.346654848785,
-      "holders": 74,
-      "change24h": 3.7658,
-      "priceUsd": 6.384232028489782e-05
+      "marketCapUsd": 65765.37734654409,
+      "holders": 78,
+      "change24h": 6.2961,
+      "priceUsd": 6.580658086023784e-05
     },
     {
-      "rank": 7,
+      "rank": 8,
       "symbol": "GoatAi",
       "name": "GoatAi",
       "address": "0xd2843f90393085c550261685de1ce4ae632a7777",
       "network": 56,
-      "marketCapUsd": 230572.4891255691,
-      "holders": 1292,
-      "change24h": 180.4487,
-      "priceUsd": 0.00023057248912556908
-    },
-    {
-      "rank": 8,
-      "symbol": "ANT",
-      "name": "Anthropic Coin",
-      "address": "ASrmY9NrtEEwsApg4xwKYfZSsMSpSm1S9FH1onuFpump",
-      "network": 1399811149,
-      "marketCapUsd": 138625.248617471,
-      "holders": 2830,
-      "change24h": 315.3935,
-      "priceUsd": 0.000138625248617471
+      "marketCapUsd": 209698.74338277942,
+      "holders": 1418,
+      "change24h": 234.2433,
+      "priceUsd": 0.00020969874338277943
     },
     {
       "rank": 9,
-      "symbol": "DIBS",
-      "name": "Dibs Bot",
-      "address": "E95f6TRF7Rw2GAXuzCahrz2LEhsMzrYHcHiV3N1Ppump",
-      "network": 1399811149,
-      "marketCapUsd": 32897.38692865582,
-      "holders": 156,
-      "change24h": -13.0186,
-      "priceUsd": 3.289738692865582e-05
-    },
-    {
-      "rank": 10,
       "symbol": "Mogmas",
       "name": "Mogmas",
       "address": "Cocrz7BR2xE2sgKn3VbmaTXH6HTVgCiVFWTVWmyTpump",
       "network": 1399811149,
-      "marketCapUsd": 56886.19663175523,
-      "holders": 444,
-      "change24h": 112.2338,
-      "priceUsd": 6.216958994850883e-05
-    },
-    {
-      "rank": 11,
-      "symbol": "JIMMY",
-      "name": "Jimmy Rustles",
-      "address": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
-      "network": 1399811149,
-      "marketCapUsd": 878622.315578186,
-      "holders": 3822,
-      "change24h": 36155.0628,
-      "priceUsd": 0.0009408955526316009
-    },
-    {
-      "rank": 12,
-      "symbol": "SIGIL",
-      "name": "Sigil",
-      "address": "0x1e786d31934fc64f450ee47e3f61b41516312f4e",
-      "network": 4663,
-      "marketCapUsd": 73348.77390615013,
-      "holders": 308,
-      "change24h": 107.0973,
-      "priceUsd": 7.628950313791523e-05
+      "marketCapUsd": 92697.45700226647,
+      "holders": 476,
+      "change24h": 4250.4249,
+      "priceUsd": 0.00010130687640107428
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
