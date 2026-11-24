@@ -1,42 +1,42 @@
 {
-  "polledAt": "2026-11-24T13:15:25.008180Z",
-  "capturedAt": "2026-11-24T13:11:49.844Z",
+  "polledAt": "2026-11-24T14:15:24.573001Z",
+  "capturedAt": "2026-11-24T14:11:46.633Z",
   "source": "live-fomo",
   "stale": false,
   "count": 11,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "FOMO",
-      "name": "fomo",
-      "address": "5zLndXiLw8p86NRF2ojayuLvQkQWyBnHQyny1b4pump",
+      "symbol": "Memeployed",
+      "name": "Memeployed",
+      "address": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn",
       "network": 1399811149,
-      "marketCapUsd": 75623.41493954921,
-      "holders": 2560,
-      "change24h": 2826.0208,
-      "priceUsd": 7.562341493954921e-05
+      "marketCapUsd": 103329.39536773351,
+      "holders": 558,
+      "change24h": 532.0802,
+      "priceUsd": 0.00010713445052869948
     },
     {
       "rank": 2,
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "address": "5ECmoCzSGB7XkefEGYXzB5b9jQFMsafRrUPSZQ3wpump",
+      "symbol": "Slingoor",
+      "name": "The White Bull",
+      "address": "ANvsL4A6tJKAXJsPg7XVSHQA7KYmFcpW42jPuhVtpump",
       "network": 1399811149,
-      "marketCapUsd": 57011.58053369255,
-      "holders": 2787,
-      "change24h": 1750.9548,
-      "priceUsd": 5.701158053369255e-05
+      "marketCapUsd": 133791.4757412425,
+      "holders": 1299,
+      "change24h": 1760.2105,
+      "priceUsd": 0.0001375199631066013
     },
     {
       "rank": 3,
-      "symbol": "ANTPAD",
-      "name": "antpad",
-      "address": "0x3474721a3fd957293b10e4f18bbf2e555ce47777",
+      "symbol": "b",
+      "name": "b",
+      "address": "0xc7459ba9ecef1ff4adfc613a2cd52bb2f0da7777",
       "network": 56,
-      "marketCapUsd": 52483.48439293448,
-      "holders": 436,
-      "change24h": 1581.8038,
-      "priceUsd": 5.248348439293448e-05
+      "marketCapUsd": 246080.96739585453,
+      "holders": 1173,
+      "change24h": 4757.7767,
+      "priceUsd": 0.00024608096739585453
     },
     {
       "rank": 4,
@@ -44,10 +44,10 @@
       "name": "pipi",
       "address": "0x762fa558c23a09516017dd798e82cbc28d027777",
       "network": 56,
-      "marketCapUsd": 61004.498236078,
-      "holders": 68,
-      "change24h": -2.2979,
-      "priceUsd": 6.104271895007474e-05
+      "marketCapUsd": 65198.39956455915,
+      "holders": 75,
+      "change24h": 5.3104,
+      "priceUsd": 6.523924785369939e-05
     },
     {
       "rank": 5,
@@ -55,21 +55,21 @@
       "name": "Jensen Is Back",
       "address": "4K2j5mbgWEhEnQhP67yjcEP3eC5F8iMoa79t79B6pump",
       "network": 1399811149,
-      "marketCapUsd": 78679.24517692854,
-      "holders": 1778,
-      "change24h": 2666.2631,
-      "priceUsd": 7.867924517692853e-05
+      "marketCapUsd": 47929.95626504345,
+      "holders": 1799,
+      "change24h": 5430.8279,
+      "priceUsd": 4.792995626504345e-05
     },
     {
       "rank": 6,
-      "symbol": "Flatulence",
-      "name": "Flatulencecoin",
-      "address": "Gq2AuvpacDeruqVRCqyZqZJJbDgYDXYDGxWQgWXhpump",
-      "network": 1399811149,
-      "marketCapUsd": 38707.26257943929,
-      "holders": 1478,
-      "change24h": 926.6602,
-      "priceUsd": 4.0434067849260186e-05
+      "symbol": "GoatAi",
+      "name": "GoatAi",
+      "address": "0xd2843f90393085c550261685de1ce4ae632a7777",
+      "network": 56,
+      "marketCapUsd": 127278.43666346348,
+      "holders": 1263,
+      "change24h": 136.4359,
+      "priceUsd": 0.00012727843666346348
     },
     {
       "rank": 7,
@@ -77,54 +77,54 @@
       "name": "Claudio",
       "address": "5St93zSNQvWxK22Cj5mJBXcjUNNB452h5uNmrttSpump",
       "network": 1399811149,
-      "marketCapUsd": 37505.18441714059,
-      "holders": 5469,
-      "change24h": 1175.018,
-      "priceUsd": 3.762239128688503e-05
+      "marketCapUsd": 50846.00917512955,
+      "holders": 5429,
+      "change24h": 1343.4103,
+      "priceUsd": 5.10049072492766e-05
     },
     {
       "rank": 8,
+      "symbol": "DIBS",
+      "name": "Dibs Bot",
+      "address": "E95f6TRF7Rw2GAXuzCahrz2LEhsMzrYHcHiV3N1Ppump",
+      "network": 1399811149,
+      "marketCapUsd": 31715.734088706824,
+      "holders": 160,
+      "change24h": 1373.8278,
+      "priceUsd": 3.1715734088706825e-05
+    },
+    {
+      "rank": 9,
       "symbol": "Mogmas",
       "name": "Mogmas",
       "address": "Cocrz7BR2xE2sgKn3VbmaTXH6HTVgCiVFWTVWmyTpump",
       "network": 1399811149,
-      "marketCapUsd": 91928.17289856923,
-      "holders": 438,
-      "change24h": 5035.1542,
-      "priceUsd": 0.00010046605206456056
+      "marketCapUsd": 66570.35519999675,
+      "holders": 443,
+      "change24h": 4088.8306,
+      "priceUsd": 7.275317969139963e-05
     },
     {
-      "rank": 9,
+      "rank": 10,
       "symbol": "JIMMY",
       "name": "Jimmy Rustles",
       "address": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
       "network": 1399811149,
-      "marketCapUsd": 388417.48030370893,
-      "holders": 3188,
-      "change24h": 19240.0078,
-      "priceUsd": 0.00041594686887540754
+      "marketCapUsd": 517802.05817154446,
+      "holders": 3214,
+      "change24h": 21110.9224,
+      "priceUsd": 0.0005545016785168588
     },
     {
-      "rank": 10,
+      "rank": 11,
       "symbol": "SIGIL",
       "name": "Sigil",
       "address": "0x1e786d31934fc64f450ee47e3f61b41516312f4e",
       "network": 4663,
-      "marketCapUsd": 39088.54785431542,
-      "holders": 287,
-      "change24h": 1286.1755,
-      "priceUsd": 4.0655702002652124e-05
-    },
-    {
-      "rank": 11,
-      "symbol": "NINO",
-      "name": "Nigga Its Not Over",
-      "address": "BqekG1RSPUthaKfStu7Uvyvr1eR6TchrQMp1M5r5pump",
-      "network": 1399811149,
-      "marketCapUsd": 39282.7904263397,
-      "holders": 890,
-      "change24h": 842.4181,
-      "priceUsd": 4.052927720396736e-05
+      "marketCapUsd": 58216.17535300945,
+      "holders": 300,
+      "change24h": 1803.9914,
+      "priceUsd": 6.055020221542444e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
