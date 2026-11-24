@@ -1,141 +1,97 @@
 {
-  "polledAt": "2026-11-24T10:15:24.997009Z",
-  "capturedAt": "2026-11-24T10:15:24.947Z",
+  "polledAt": "2026-11-24T11:15:25.268747Z",
+  "capturedAt": "2026-11-24T11:11:56.977Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 12,
+  "count": 8,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "BRA",
+      "name": "BRA",
+      "address": "3qSgUfcdBdRkGqUznydYB6kaRDxUa8gFYtToiB2Spump",
+      "network": 1399811149,
+      "marketCapUsd": 40460.135869764854,
+      "holders": 2268,
+      "change24h": 2127.0329,
+      "priceUsd": 4.046013586976486e-05
+    },
+    {
+      "rank": 2,
       "symbol": "GTAVI",
       "name": "Official Grand Theft Auto VI",
       "address": "EguMGpq3P7gS44WdyksYPSTKj2uP14fZH72enBE6pump",
       "network": 1399811149,
-      "marketCapUsd": 78746.24262219845,
-      "holders": 2678,
-      "change24h": 2759.1817,
-      "priceUsd": 7.874624262219845e-05
-    },
-    {
-      "rank": 2,
-      "symbol": "ANSEM",
-      "name": "The Black Bull",
-      "address": "Eic8jkt5ehJaBknqn6kJZ1g5RLjSijutFTSNBuVZpump",
-      "network": 1399811149,
-      "marketCapUsd": 50103.50593820177,
-      "holders": 2768,
-      "change24h": 2915.8234,
-      "priceUsd": 5.010350593820177e-05
+      "marketCapUsd": 44250.12157983757,
+      "holders": 2680,
+      "change24h": 8844.3605,
+      "priceUsd": 4.425012157983757e-05
     },
     {
       "rank": 3,
-      "symbol": "Ansem",
-      "name": "Justice For Ansem",
-      "address": "JD9LQ3MrkwhS998btJYK3xWijYFHWbqk6tQFXHrSpump",
-      "network": 1399811149,
-      "marketCapUsd": 32126.140074442766,
-      "holders": 315,
-      "change24h": 1937.6274,
-      "priceUsd": 3.409388449822168e-05
-    },
-    {
-      "rank": 4,
-      "symbol": "Rockstar",
-      "name": "Rockstar Games",
-      "address": "3T9e85d5yZMxSYZWGVaq95MoQrPoeGMchRohWaqFpump",
-      "network": 1399811149,
-      "marketCapUsd": 55916.62229674707,
-      "holders": 2668,
-      "change24h": 1776.6221,
-      "priceUsd": 5.616058031077468e-05
-    },
-    {
-      "rank": 5,
-      "symbol": "蒼井そら",
-      "name": "蒼井そら",
-      "address": "0xb86183fa2a6f2fe5274bf41f71023d3797e87777",
-      "network": 56,
-      "marketCapUsd": 30129.802196445904,
-      "holders": 379,
-      "change24h": 676.4519,
-      "priceUsd": 3.0129802196445903e-05
-    },
-    {
-      "rank": 6,
       "symbol": "Flatulence",
       "name": "Flatulencecoin",
       "address": "Gq2AuvpacDeruqVRCqyZqZJJbDgYDXYDGxWQgWXhpump",
       "network": 1399811149,
-      "marketCapUsd": 53578.54299183866,
-      "holders": 1615,
-      "change24h": 1568.1857,
-      "priceUsd": 5.596878462150062e-05
+      "marketCapUsd": 50997.70838198133,
+      "holders": 1575,
+      "change24h": 1570.402,
+      "priceUsd": 5.327281402661486e-05
     },
     {
-      "rank": 7,
+      "rank": 4,
       "symbol": "CLAUDIO",
       "name": "Claudio",
       "address": "5St93zSNQvWxK22Cj5mJBXcjUNNB452h5uNmrttSpump",
       "network": 1399811149,
-      "marketCapUsd": 169848.75945069734,
-      "holders": 5510,
-      "change24h": 5215.5821,
-      "priceUsd": 0.00017037852834105737
+      "marketCapUsd": 95365.14855979991,
+      "holders": 5500,
+      "change24h": 2782.9237,
+      "priceUsd": 9.56631727055044e-05
     },
     {
-      "rank": 8,
+      "rank": 5,
       "symbol": "Mogmas",
       "name": "Mogmas",
       "address": "Cocrz7BR2xE2sgKn3VbmaTXH6HTVgCiVFWTVWmyTpump",
       "network": 1399811149,
-      "marketCapUsd": 44182.99610561859,
-      "holders": 399,
-      "change24h": 2254.0751,
-      "priceUsd": 4.8286515952112873e-05
+      "marketCapUsd": 39795.769958488985,
+      "holders": 394,
+      "change24h": 2166.6666,
+      "priceUsd": 4.3491823785187574e-05
     },
     {
-      "rank": 9,
+      "rank": 6,
       "symbol": "JIMMY",
       "name": "Jimmy Rustles",
       "address": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump",
       "network": 1399811149,
-      "marketCapUsd": 359634.05022976996,
-      "holders": 3113,
-      "change24h": 17520.1061,
-      "priceUsd": 0.00038512297738719966
+      "marketCapUsd": 400013.6124196109,
+      "holders": 3224,
+      "change24h": 19345.5902,
+      "priceUsd": 0.00042836488580117393
     },
     {
-      "rank": 10,
-      "symbol": "SCINU",
-      "name": "SUPER CLAUDIA INU",
-      "address": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump",
-      "network": 1399811149,
-      "marketCapUsd": 66310.42906777207,
-      "holders": 888,
-      "change24h": 2513.7345,
-      "priceUsd": 6.631042906777207e-05
-    },
-    {
-      "rank": 11,
+      "rank": 7,
       "symbol": "SIGIL",
       "name": "Sigil",
       "address": "0x1e786d31934fc64f450ee47e3f61b41516312f4e",
       "network": 4663,
-      "marketCapUsd": 40087.454941930555,
-      "holders": 283,
-      "change24h": 1300.7034,
-      "priceUsd": 4.1694657684346366e-05
+      "marketCapUsd": 42605.526933965644,
+      "holders": 286,
+      "change24h": 1371.0278,
+      "priceUsd": 4.431368525505467e-05
     },
     {
-      "rank": 12,
+      "rank": 8,
       "symbol": "NINO",
       "name": "Nigga Its Not Over",
       "address": "BqekG1RSPUthaKfStu7Uvyvr1eR6TchrQMp1M5r5pump",
       "network": 1399811149,
-      "marketCapUsd": 41728.601064241244,
-      "holders": 940,
-      "change24h": 1011.1846,
-      "priceUsd": 4.3052696142797576e-05
+      "marketCapUsd": 38772.44179079407,
+      "holders": 922,
+      "change24h": 1001.5861,
+      "priceUsd": 4.00027346366953e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
