@@ -1,31 +1,31 @@
 {
-  "polledAt": "2026-11-25T15:15:29.135472Z",
-  "capturedAt": "2026-11-25T15:15:29.093Z",
+  "polledAt": "2026-11-25T17:15:25.566836Z",
+  "capturedAt": "2026-11-25T17:14:49.720Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 23,
+  "count": 17,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "MEDIC",
+      "name": "Medic AI",
+      "address": "EKAYUgoDp283tNs3QNKY42NydabpLLXUSSqFv8mCS4nL",
+      "network": 1399811149,
+      "marketCapUsd": 384313.7410294174,
+      "holders": 317,
+      "change24h": 143.0872,
+      "priceUsd": 0.0003843137410294174
+    },
+    {
+      "rank": 2,
       "symbol": "小修狗",
       "name": "小修狗",
       "address": "0xd3eb6886616e7a0903a7b1caf1ed44a6f9d77777",
       "network": 56,
-      "marketCapUsd": 37179.72904981194,
-      "holders": 387,
-      "change24h": 74.3377,
-      "priceUsd": 3.717972904981194e-05
-    },
-    {
-      "rank": 2,
-      "symbol": "BASKET",
-      "name": "Basket",
-      "address": "D3k46GsgkqqizkcJXDporNnNUxtBmpE1uznGovFLpump",
-      "network": 1399811149,
-      "marketCapUsd": 64517.66069008962,
-      "holders": 2748,
-      "change24h": -41.7491,
-      "priceUsd": 6.451766069008963e-05
+      "marketCapUsd": 32564.06366262145,
+      "holders": 527,
+      "change24h": 35.1211,
+      "priceUsd": 3.256406366262145e-05
     },
     {
       "rank": 3,
@@ -33,10 +33,10 @@
       "name": "only.meme",
       "address": "4nSRQK6B9x3BdssQyVf8ZEgkDdpTJdqYn8xPvFdQmeme",
       "network": 1399811149,
-      "marketCapUsd": 72116.47649835171,
-      "holders": 893,
-      "change24h": 19.8975,
-      "priceUsd": 7.21166590048353e-05
+      "marketCapUsd": 51783.73052446982,
+      "holders": 709,
+      "change24h": 44.8517,
+      "priceUsd": 5.1783861574502e-05
     },
     {
       "rank": 4,
@@ -51,28 +51,17 @@
     },
     {
       "rank": 5,
-      "symbol": "JOE",
-      "name": "Yellow Boi",
-      "address": "3C9RvapTgjFb9euqTDyUeWwQF4ZFKJB3bbke8qRqpump",
-      "network": 1399811149,
-      "marketCapUsd": 53896.98122572481,
-      "holders": 482,
-      "change24h": -3.4651,
-      "priceUsd": 5.595211716958082e-05
-    },
-    {
-      "rank": 6,
       "symbol": "BOOSTER",
       "name": "Booster Pack",
       "address": "0xf201271e63b4e7831947b64a159ea46d8dc4ffff",
       "network": 56,
-      "marketCapUsd": 127032.4219154392,
-      "holders": 1075,
-      "change24h": 97.5561,
-      "priceUsd": 0.0001392155625957022
+      "marketCapUsd": 67324.35223545517,
+      "holders": 965,
+      "change24h": -1.8615,
+      "priceUsd": 7.379118739531079e-05
     },
     {
-      "rank": 7,
+      "rank": 6,
       "symbol": "DCTY",
       "name": "DacityCoin",
       "address": "7FyBxp3ewa6zW8ppjcxQtbvDCkPXv9eiJz6JzNibpump",
@@ -83,7 +72,7 @@
       "priceUsd": 4.569031776212457e-05
     },
     {
-      "rank": 8,
+      "rank": 7,
       "symbol": "JENSEN",
       "name": "Jensen Is Back",
       "address": "2E9gZZvkqe25TNskN4MkZJDw8kdDUocXQPpndLBYpump",
@@ -94,40 +83,29 @@
       "priceUsd": 3.333117062930393e-05
     },
     {
-      "rank": 9,
+      "rank": 8,
       "symbol": "pipi",
       "name": "pipi",
       "address": "0xb4b2b5672392f13e71b8af22f9c8752ed90c7777",
       "network": 56,
-      "marketCapUsd": 725995.7400861077,
-      "holders": 300,
-      "change24h": 202.5729,
-      "priceUsd": 0.0007262288055538739
+      "marketCapUsd": 828537.6834996842,
+      "holders": 326,
+      "change24h": 267.4803,
+      "priceUsd": 0.0008288036678741157
     },
     {
-      "rank": 10,
-      "symbol": "BASKET",
-      "name": "Basket",
-      "address": "6G9BfxTTUkw6mNPddwEstAAvz9ztvJ4k655JcPHUpump",
-      "network": 1399811149,
-      "marketCapUsd": 51765.45213543587,
-      "holders": 2770,
-      "change24h": 972.9785,
-      "priceUsd": 5.176545213543587e-05
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "symbol": "OUROBOROS",
       "name": "OUROBOROS",
       "address": "38EDdUxnJvrnDsJyB45E2W3pK26qLEjmWTvsEmMuG9ZR",
       "network": 1399811149,
-      "marketCapUsd": 39035.53396677403,
-      "holders": 385,
-      "change24h": 15.9273,
-      "priceUsd": 3.903553396677402e-05
+      "marketCapUsd": 39914.49796959996,
+      "holders": 359,
+      "change24h": 53.4224,
+      "priceUsd": 3.991449796959997e-05
     },
     {
-      "rank": 12,
+      "rank": 10,
       "symbol": "DCTY",
       "name": "DacityCoin",
       "address": "86p1Wz65gGy72rfLbx8tyEz2SqnPqqVTJqv3XaMBpump",
@@ -138,7 +116,7 @@
       "priceUsd": 3.621275749233232e-05
     },
     {
-      "rank": 13,
+      "rank": 11,
       "symbol": "ANSEM",
       "name": "The Black Bull",
       "address": "5sje2CctZeczVokJyk6FFiyyaTZWMR8P5DTpNUbxpump",
@@ -149,114 +127,70 @@
       "priceUsd": 3.665369265448083e-05
     },
     {
-      "rank": 14,
+      "rank": 12,
       "symbol": "Pompom",
       "name": "Pompompurin",
       "address": "5EmvWDizkpjAXbcfCcVq69w1id8GaLzi4LLwtuSgpump",
       "network": 1399811149,
-      "marketCapUsd": 311811.0897481277,
-      "holders": 2908,
-      "change24h": 670.0305,
-      "priceUsd": 0.0003195211668105015
+      "marketCapUsd": 279204.0461397238,
+      "holders": 3683,
+      "change24h": 1202.9102,
+      "priceUsd": 0.0002861078875493996
     },
     {
-      "rank": 15,
-      "symbol": "Helipaid",
-      "name": "Helipaid",
-      "address": "F9uXudpDQVvQDUSqieuD79oxYVQMQzHbgCbYkrorpump",
-      "network": 1399811149,
-      "marketCapUsd": 37711.80389261663,
-      "holders": 768,
-      "change24h": -6.1946,
-      "priceUsd": 3.964720495040832e-05
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "symbol": "JaoJiu",
       "name": "JaoJiu",
       "address": "2UyrvgCRXiEwiKRVk96gs6B4myrBHZAfcLyMVLE8vSCy",
       "network": 1399811149,
-      "marketCapUsd": 106818.5188116681,
-      "holders": 1681,
-      "change24h": 250.7403,
-      "priceUsd": 0.000110166306925191
+      "marketCapUsd": 41880.16558168703,
+      "holders": 1426,
+      "change24h": 201.6067,
+      "priceUsd": 4.319272750527949e-05
     },
     {
-      "rank": 17,
+      "rank": 14,
       "symbol": "BASKET",
       "name": "Basket",
       "address": "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f",
       "network": 1399811149,
-      "marketCapUsd": 1159902.947983816,
-      "holders": 5168,
-      "change24h": 1496.891,
-      "priceUsd": 0.001181389130178066
+      "marketCapUsd": 1186686.215958812,
+      "holders": 5303,
+      "change24h": 1333.4441,
+      "priceUsd": 0.001212092971407886
     },
     {
-      "rank": 18,
+      "rank": 15,
       "symbol": "莫达",
       "name": "老鼠莫达",
       "address": "0x2133b903cd4cb46aeece2ab4457e25cff1a87777",
       "network": 56,
-      "marketCapUsd": 248095.6542431594,
-      "holders": 1492,
-      "change24h": 720.974,
-      "priceUsd": 0.0002480956542431594
+      "marketCapUsd": 253460.41988826,
+      "holders": 1461,
+      "change24h": 674.5252,
+      "priceUsd": 0.00025346041988826
     },
     {
-      "rank": 19,
+      "rank": 16,
       "symbol": "PERRO",
       "name": "Perro Coin",
       "address": "4Di56UJzpnb7E4D7aLXFf7aLF5TrpJYv9Q3mR398pump",
       "network": 1399811149,
-      "marketCapUsd": 310267.9037371741,
-      "holders": 2201,
-      "change24h": 690.489,
-      "priceUsd": 0.0003228069458464843
+      "marketCapUsd": 178582.5376670589,
+      "holders": 2181,
+      "change24h": 684.4267,
+      "priceUsd": 0.0001858009661877441
     },
     {
-      "rank": 20,
+      "rank": 17,
       "symbol": "TELEDROID",
       "name": "Teledroid",
       "address": "Ea7ADHtZdQVre2mTBbN9Ps3TBraR6n5GUamGF9Ftpump",
       "network": 1399811149,
-      "marketCapUsd": 64065.14402435777,
-      "holders": 491,
-      "change24h": 111.9007,
-      "priceUsd": 6.406514402435777e-05
-    },
-    {
-      "rank": 21,
-      "symbol": "Pumpcar",
-      "name": "The Pumpfun Car",
-      "address": "4M1tpKSat8qWnJk6pskUBciw4PBvXt4gNMc36NV8pump",
-      "network": 1399811149,
-      "marketCapUsd": 37691.47039746708,
-      "holders": 366,
-      "change24h": 46.3945,
-      "priceUsd": 3.920724484148599e-05
-    },
-    {
-      "rank": 22,
-      "symbol": "Sisyphus",
-      "name": "Sisyphus",
-      "address": "AuPon7CveYeRk3E7YdUt9QMGu5hEGkqSxzo9NiZdpump",
-      "network": 1399811149,
-      "marketCapUsd": 31620.4213682204,
-      "holders": 268,
-      "change24h": 10.3565,
-      "priceUsd": 3.249968466881244e-05
-    },
-    {
-      "rank": 23,
-      "symbol": "CHRISTMAS",
-      "name": "Christmas",
-      "address": "6jmhyHEy1rDyYHyRkr1rbVVQnckKpMYWh3zoX7zLpump",
-      "network": 1399811149,
-      "marketCapUsd": 102258.7640806642,
-      "holders": 1079,
-      "change24h": 333.9562,
-      "priceUsd": 0.0001063245884690268
+      "marketCapUsd": 74032.16563123457,
+      "holders": 490,
+      "change24h": 130.105,
+      "priceUsd": 7.403216563123457e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
