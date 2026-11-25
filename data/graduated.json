@@ -1,97 +1,97 @@
 {
-  "polledAt": "2026-11-25T12:15:25.273354Z",
-  "capturedAt": "2026-11-25T12:12:40.983Z",
+  "polledAt": "2026-11-25T13:15:24.702988Z",
+  "capturedAt": "2026-11-25T13:15:24.665Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 11,
+  "count": 10,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "pipi",
+      "name": "pipi",
+      "address": "0xb4b2b5672392f13e71b8af22f9c8752ed90c7777",
+      "network": 56,
+      "marketCapUsd": 655936.5082234296,
+      "holders": 313,
+      "change24h": 188.7125,
+      "priceUsd": 0.0006561470826671527
+    },
+    {
+      "rank": 2,
       "symbol": "Pompom",
       "name": "Pompompurin",
       "address": "5EmvWDizkpjAXbcfCcVq69w1id8GaLzi4LLwtuSgpump",
       "network": 1399811149,
-      "marketCapUsd": 198592.26967675384,
-      "holders": 1534,
-      "change24h": 5641.5914,
-      "priceUsd": 0.00020350171909487065
+      "marketCapUsd": 396257.01355765713,
+      "holders": 3365,
+      "change24h": 18733.0224,
+      "priceUsd": 0.0004060551143741084
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "symbol": "Helipaid",
+      "name": "Helipaid",
+      "address": "F9uXudpDQVvQDUSqieuD79oxYVQMQzHbgCbYkrorpump",
+      "network": 1399811149,
+      "marketCapUsd": 65818.11001623273,
+      "holders": 845,
+      "change24h": 672.6709,
+      "priceUsd": 6.919595001852991e-05
+    },
+    {
+      "rank": 4,
       "symbol": "SPCXC",
       "name": "SPCX Chain",
       "address": "0x904ccdcee00a4f4596b1e92604c00274b75cb244",
       "network": 4663,
-      "marketCapUsd": 35174.44035551561,
-      "holders": 237,
-      "change24h": 862.5136,
-      "priceUsd": 3.557745925351926e-05
+      "marketCapUsd": 36312.08343615776,
+      "holders": 248,
+      "change24h": 900.217,
+      "priceUsd": 3.674385786557312e-05
     },
     {
-      "rank": 3,
+      "rank": 5,
       "symbol": "JaoJiu",
       "name": "JaoJiu",
       "address": "2UyrvgCRXiEwiKRVk96gs6B4myrBHZAfcLyMVLE8vSCy",
       "network": 1399811149,
-      "marketCapUsd": 100724.14425475404,
-      "holders": 1731,
-      "change24h": 5593.84,
-      "priceUsd": 0.0001038735030840292
+      "marketCapUsd": 133275.37933644172,
+      "holders": 1715,
+      "change24h": 4658.6604,
+      "priceUsd": 0.00013744252313045225
     },
     {
-      "rank": 4,
-      "symbol": "BASKET",
-      "name": "Basket",
-      "address": "3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f",
-      "network": 1399811149,
-      "marketCapUsd": 1530780.78236244,
-      "holders": 5092,
-      "change24h": 17356.8433,
-      "priceUsd": 0.0015553322104959412
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "symbol": "PERRO",
       "name": "Perro Coin",
       "address": "4Di56UJzpnb7E4D7aLXFf7aLF5TrpJYv9Q3mR398pump",
       "network": 1399811149,
-      "marketCapUsd": 167937.45615320446,
-      "holders": 2211,
-      "change24h": 8765.3713,
-      "priceUsd": 0.0001747244128737399
+      "marketCapUsd": 159391.59949559692,
+      "holders": 2203,
+      "change24h": 8708.291,
+      "priceUsd": 0.0001658331874067932
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "TELEDROID",
       "name": "Teledroid",
       "address": "Ea7ADHtZdQVre2mTBbN9Ps3TBraR6n5GUamGF9Ftpump",
       "network": 1399811149,
-      "marketCapUsd": 57482.947795247885,
-      "holders": 463,
+      "marketCapUsd": 61047.21290324612,
+      "holders": 464,
       "change24h": 2097.2351,
-      "priceUsd": 5.748294779524789e-05
+      "priceUsd": 6.104721290324613e-05
     },
     {
-      "rank": 7,
+      "rank": 8,
       "symbol": "Pumpcar",
       "name": "The Pumpfun Car",
       "address": "4M1tpKSat8qWnJk6pskUBciw4PBvXt4gNMc36NV8pump",
       "network": 1399811149,
-      "marketCapUsd": 37320.971398403555,
-      "holders": 376,
-      "change24h": 2191.2596,
-      "priceUsd": 3.8821846107591406e-05
-    },
-    {
-      "rank": 8,
-      "symbol": "Holders",
-      "name": "World record most holders",
-      "address": "55RwtHpoNB81SgfiNvogeZTMfik2SfMGa5FaxKcXpump",
-      "network": 1399811149,
-      "marketCapUsd": 47051.71732147463,
-      "holders": 15106,
-      "change24h": 2501.4475,
-      "priceUsd": 4.823048623874312e-05
+      "marketCapUsd": 31253.2462861047,
+      "holders": 370,
+      "change24h": 1699.9732,
+      "priceUsd": 3.2510105504212834e-05
     },
     {
       "rank": 9,
@@ -99,32 +99,21 @@
       "name": "Christmas",
       "address": "6jmhyHEy1rDyYHyRkr1rbVVQnckKpMYWh3zoX7zLpump",
       "network": 1399811149,
-      "marketCapUsd": 108253.05909606194,
-      "holders": 1028,
-      "change24h": 4891.7896,
-      "priceUsd": 0.00011255721758794858
+      "marketCapUsd": 141409.98681399677,
+      "holders": 1072,
+      "change24h": 7368.4911,
+      "priceUsd": 0.00014703246991669538
     },
     {
       "rank": 10,
-      "symbol": "Memeployed",
-      "name": "Memeployed",
-      "address": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn",
-      "network": 1399811149,
-      "marketCapUsd": 35760.94070812068,
-      "holders": 910,
-      "change24h": 1012.9901,
-      "priceUsd": 3.707887517672538e-05
-    },
-    {
-      "rank": 11,
       "symbol": "b",
       "name": "b",
       "address": "0xc7459ba9ecef1ff4adfc613a2cd52bb2f0da7777",
       "network": 56,
-      "marketCapUsd": 50368.88308145701,
-      "holders": 901,
-      "change24h": 2107.1374,
-      "priceUsd": 5.036888308145701e-05
+      "marketCapUsd": 54464.74747475316,
+      "holders": 872,
+      "change24h": 1794.0379,
+      "priceUsd": 5.446474747475316e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
