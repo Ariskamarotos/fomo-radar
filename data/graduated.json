@@ -1,174 +1,185 @@
 {
-  "polledAt": "2026-11-27T08:15:23.197281Z",
-  "capturedAt": "2026-11-27T08:15:23.142Z",
+  "polledAt": "2026-11-27T09:15:30.327358Z",
+  "capturedAt": "2026-11-27T09:12:42.728Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 15,
+  "count": 16,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "BSC",
+      "name": "Binance Super CZ",
+      "address": "0x1197d3323a09007be4a01f193b5bdb569f027777",
+      "network": 56,
+      "marketCapUsd": 202732.68120249003,
+      "holders": 978,
+      "change24h": 3585.763,
+      "priceUsd": 0.00020273268120249004
+    },
+    {
+      "rank": 2,
       "symbol": "NIW",
       "name": "Nigga Its Wasted",
       "address": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump",
       "network": 1399811149,
-      "marketCapUsd": 46858.60096461667,
-      "holders": 182,
-      "change24h": 2377.2556,
-      "priceUsd": 4.685860096461667e-05
+      "marketCapUsd": 73214.67146689973,
+      "holders": 218,
+      "change24h": 3897.1081,
+      "priceUsd": 7.516582131391288e-05
     },
     {
-      "rank": 2,
+      "rank": 3,
       "symbol": "BASKET",
       "name": "Basket",
       "address": "FF6oz9Fr1JXB2RZKg5JRPpGjQr5WgHWcnu9Vau9rpump",
       "network": 1399811149,
-      "marketCapUsd": 88840.33919060604,
-      "holders": 2754,
-      "change24h": 2763.8361,
-      "priceUsd": 8.884033919060605e-05
+      "marketCapUsd": 168362.60720081787,
+      "holders": 2769,
+      "change24h": 5451.8737,
+      "priceUsd": 0.00016836260720081786
     },
     {
-      "rank": 3,
+      "rank": 4,
       "symbol": "牛回",
       "name": "A股牛回来了么",
       "address": "0x4e4ee62d4301df6090447965ab93b1bdc3907777",
       "network": 56,
-      "marketCapUsd": 63765.20475204881,
-      "holders": 833,
-      "change24h": 1694.6904,
-      "priceUsd": 6.376520475204881e-05
+      "marketCapUsd": 59672.76286426214,
+      "holders": 673,
+      "change24h": 1600.459,
+      "priceUsd": 5.9672762864262145e-05
     },
     {
-      "rank": 4,
+      "rank": 5,
       "symbol": "TESSEL",
       "name": "Tessel",
       "address": "0x9ee0ccb81756fa7ef4719a14b450a65b88e3bb3e",
       "network": 4663,
-      "marketCapUsd": 40164.63982189749,
-      "holders": 195,
-      "change24h": 1491.2995,
-      "priceUsd": 4.09300774453033e-05
+      "marketCapUsd": 37359.48497900094,
+      "holders": 203,
+      "change24h": 1290.0615,
+      "priceUsd": 3.807146336398825e-05
     },
     {
-      "rank": 5,
+      "rank": 6,
       "symbol": "Kibo",
       "name": "キボウ",
       "address": "7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump",
       "network": 1399811149,
-      "marketCapUsd": 117311.97465192505,
-      "holders": 1076,
-      "change24h": 4837.4999,
-      "priceUsd": 0.00012060438429593138
+      "marketCapUsd": 72929.53027402413,
+      "holders": 1094,
+      "change24h": 2961.7963,
+      "priceUsd": 7.497632818473076e-05
     },
     {
-      "rank": 6,
+      "rank": 7,
       "symbol": "mihao",
       "name": "ni hao cat",
       "address": "0xebe0f167b6bbac37f68ab7b9930b30799f487777",
       "network": 56,
-      "marketCapUsd": 293377.8801450978,
-      "holders": 1476,
-      "change24h": 7154.2136,
-      "priceUsd": 0.0002933778801450978
-    },
-    {
-      "rank": 7,
-      "symbol": "DragonRiders",
-      "name": "DragonRiders",
-      "address": "0x91e6681779e175f3dcd42c21e896908d42ad7777",
-      "network": 56,
-      "marketCapUsd": 56156.685727351,
-      "holders": 585,
-      "change24h": 1536.8388,
-      "priceUsd": 5.6156685727351e-05
+      "marketCapUsd": 256709.8239594667,
+      "holders": 1467,
+      "change24h": 6610.5796,
+      "priceUsd": 0.0002567098239594667
     },
     {
       "rank": 8,
       "symbol": "DragonRiders",
       "name": "DragonRiders",
-      "address": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
-      "network": 1399811149,
-      "marketCapUsd": 143840.415694353,
-      "holders": 1549,
-      "change24h": 4711.6042,
-      "priceUsd": 0.00014947876473842318
+      "address": "0x91e6681779e175f3dcd42c21e896908d42ad7777",
+      "network": 56,
+      "marketCapUsd": 36473.60677182179,
+      "holders": 567,
+      "change24h": 868.0467,
+      "priceUsd": 3.647360677182179e-05
     },
     {
       "rank": 9,
+      "symbol": "DragonRiders",
+      "name": "DragonRiders",
+      "address": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+      "network": 1399811149,
+      "marketCapUsd": 47671.69694052438,
+      "holders": 1517,
+      "change24h": 2835.114,
+      "priceUsd": 4.9540362750312925e-05
+    },
+    {
+      "rank": 10,
       "symbol": "Gemma",
       "name": "Justice for Gemma",
       "address": "C8CZZnPJzPaWhB82EmpKMZc5PEqNnQ46n43j5Fj9pump",
       "network": 1399811149,
-      "marketCapUsd": 38293.411396313604,
-      "holders": 243,
-      "change24h": 1506.788,
-      "priceUsd": 3.82934113963136e-05
+      "marketCapUsd": 48215.506385188084,
+      "holders": 253,
+      "change24h": 1959.0974,
+      "priceUsd": 4.8215506385188086e-05
     },
     {
-      "rank": 10,
+      "rank": 11,
       "symbol": "MEOWI",
       "name": "MEOWI",
       "address": "Bwwc9n2mPn1k5rGv6UjAudiPPYmQpSzYevddjdmHpump",
       "network": 1399811149,
-      "marketCapUsd": 44687.44629799485,
-      "holders": 174,
-      "change24h": 1915.0694,
-      "priceUsd": 4.468744629799485e-05
+      "marketCapUsd": 45213.63251458273,
+      "holders": 177,
+      "change24h": 2053.3433,
+      "priceUsd": 4.5213632514582725e-05
     },
     {
-      "rank": 11,
+      "rank": 12,
       "symbol": "UHI",
       "name": "Universal High Income",
       "address": "0xe09a92b793e366a2744de1cc06fb27f885297777",
       "network": 56,
-      "marketCapUsd": 34219.231673953705,
-      "holders": 401,
-      "change24h": 819.5037,
-      "priceUsd": 3.421923167395371e-05
+      "marketCapUsd": 52719.44152874396,
+      "holders": 425,
+      "change24h": 1339.18,
+      "priceUsd": 5.271944152874396e-05
     },
     {
-      "rank": 12,
+      "rank": 13,
       "symbol": "FIST",
       "name": "FIST",
       "address": "0xc2a7ad8dc904d2bb7630be73f6af92afe4507777",
       "network": 56,
-      "marketCapUsd": 59333.82339955745,
-      "holders": 1452,
-      "change24h": 5.2427,
-      "priceUsd": 5.935148958247978e-05
+      "marketCapUsd": 56614.59423400823,
+      "holders": 1447,
+      "change24h": 0.6029,
+      "priceUsd": 5.663145078766527e-05
     },
     {
-      "rank": 13,
+      "rank": 14,
       "symbol": "HAGI",
       "name": "hagi",
       "address": "0x4643d8eaa4adc2ce361331b831ea6335742a29a1",
       "network": 4663,
-      "marketCapUsd": 32648.02479110974,
-      "holders": 262,
-      "change24h": 1032.8408,
-      "priceUsd": 3.271181282612067e-05
+      "marketCapUsd": 32799.395070527375,
+      "holders": 261,
+      "change24h": 1076.4116,
+      "priceUsd": 3.286347885429325e-05
     },
     {
-      "rank": 14,
+      "rank": 15,
       "symbol": "PAIR",
       "name": "Paircoin",
       "address": "32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump",
       "network": 1399811149,
-      "marketCapUsd": 42544.0980073543,
-      "holders": 2942,
-      "change24h": 2114.6676,
-      "priceUsd": 4.451860010421917e-05
+      "marketCapUsd": 43630.40986541487,
+      "holders": 2902,
+      "change24h": 2161.0793,
+      "priceUsd": 4.5655328474605814e-05
     },
     {
-      "rank": 15,
+      "rank": 16,
       "symbol": "duk",
       "name": "duk",
       "address": "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump",
       "network": 1399811149,
-      "marketCapUsd": 93661.68069423093,
-      "holders": 839,
-      "change24h": 4371.4877,
-      "priceUsd": 9.779295033737814e-05
+      "marketCapUsd": 91337.18150648884,
+      "holders": 830,
+      "change24h": 4415.4489,
+      "priceUsd": 9.536592114100648e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
