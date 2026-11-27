@@ -1,20 +1,20 @@
 {
-  "polledAt": "2026-11-27T00:15:23.443421Z",
-  "capturedAt": "2026-11-27T00:15:23.378Z",
+  "polledAt": "2026-11-27T01:15:24.887739Z",
+  "capturedAt": "2026-11-27T01:15:24.823Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 19,
+  "count": 16,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "CAT",
-      "name": "Cat",
-      "address": "FC98w6siZEqZ6DHxRhifgy7k7mk5W4txKPkNbi4Ppump",
+      "symbol": "BASKET",
+      "name": "Basket",
+      "address": "7MPeiHqWELK5yxf9MziU6JFSKfbqYpgHRJoxtjQRpump",
       "network": 1399811149,
-      "marketCapUsd": 36144.22881177338,
-      "holders": 970,
-      "change24h": 23.4623,
-      "priceUsd": 3.614422881177338e-05
+      "marketCapUsd": 69364.79227288844,
+      "holders": 2763,
+      "change24h": 1806.0622,
+      "priceUsd": 6.936479227288844e-05
     },
     {
       "rank": 2,
@@ -22,21 +22,21 @@
       "name": "Official Grand Theft Auto VI",
       "address": "HeYnz24VxKGvoALc26gDLoVKjsHD9LVqLLDKoWpxpump",
       "network": 1399811149,
-      "marketCapUsd": 40023.85538882498,
-      "holders": 2687,
-      "change24h": 1199.9022,
-      "priceUsd": 4.0023855388824984e-05
+      "marketCapUsd": 47909.82397024451,
+      "holders": 2673,
+      "change24h": 1387.8093,
+      "priceUsd": 4.790982397024451e-05
     },
     {
       "rank": 3,
-      "symbol": "TechCat",
-      "name": "TechCat",
-      "address": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+      "symbol": "Gemma",
+      "name": "Justice for Gemma",
+      "address": "C8CZZnPJzPaWhB82EmpKMZc5PEqNnQ46n43j5Fj9pump",
       "network": 1399811149,
-      "marketCapUsd": 43537.654181338025,
-      "holders": 1266,
-      "change24h": 1808.2889,
-      "priceUsd": 4.353765418133803e-05
+      "marketCapUsd": 30556.002934972465,
+      "holders": 184,
+      "change24h": 962.6224,
+      "priceUsd": 3.0556002934972466e-05
     },
     {
       "rank": 4,
@@ -44,175 +44,142 @@
       "name": "MEOWI",
       "address": "Bwwc9n2mPn1k5rGv6UjAudiPPYmQpSzYevddjdmHpump",
       "network": 1399811149,
-      "marketCapUsd": 40259.951362158834,
-      "holders": 151,
-      "change24h": 1817.4211,
-      "priceUsd": 4.0259951362158833e-05
+      "marketCapUsd": 35542.66856530818,
+      "holders": 164,
+      "change24h": 1589.6773,
+      "priceUsd": 3.554266856530818e-05
     },
     {
       "rank": 5,
-      "symbol": "SI人生",
-      "name": "SI人生",
-      "address": "0xbbeb1e48a13320a1624acc370f755f84b52f7777",
-      "network": 56,
-      "marketCapUsd": 32998.04603056512,
-      "holders": 1301,
-      "change24h": 577.3535,
-      "priceUsd": 3.311219803224531e-05
-    },
-    {
-      "rank": 6,
       "symbol": "RIG",
       "name": "RIG",
       "address": "0xc4b58f6ba53926ee7bf3c10dd4c6bd73a6e593f5",
       "network": 4663,
-      "marketCapUsd": 46484.09453012373,
-      "holders": 266,
-      "change24h": 1319.3846,
-      "priceUsd": 4.648409453012373e-05
+      "marketCapUsd": 34139.51127157128,
+      "holders": 248,
+      "change24h": 1230.9921,
+      "priceUsd": 3.413951127157128e-05
     },
     {
-      "rank": 7,
+      "rank": 6,
       "symbol": "tato",
       "name": "tato",
       "address": "Eyevsagqp6qyUxz5Dj2jWawww5csjDFLtrPPmRwYpump",
       "network": 1399811149,
-      "marketCapUsd": 31829.95769859754,
-      "holders": 154,
-      "change24h": 1473.5228,
-      "priceUsd": 3.182995769859754e-05
+      "marketCapUsd": 40171.955637385836,
+      "holders": 159,
+      "change24h": 1471.2406,
+      "priceUsd": 4.017195563738583e-05
     },
     {
-      "rank": 8,
+      "rank": 7,
       "symbol": "Kuro",
       "name": "Kuro",
       "address": "0x7d52095e844251c504c14fc1382d031b66217777",
       "network": 56,
-      "marketCapUsd": 108197.72416152725,
-      "holders": 1079,
-      "change24h": 2594.2149,
-      "priceUsd": 0.00010819772416152725
+      "marketCapUsd": 117817.10410415384,
+      "holders": 1064,
+      "change24h": 2450.915,
+      "priceUsd": 0.00011781710410415385
     },
     {
-      "rank": 9,
+      "rank": 8,
       "symbol": "FIST",
       "name": "FIST",
       "address": "0xc2a7ad8dc904d2bb7630be73f6af92afe4507777",
       "network": 56,
-      "marketCapUsd": 57705.56638681881,
-      "holders": 506,
-      "change24h": 2.492,
-      "priceUsd": 5.7722747768921253e-05
+      "marketCapUsd": 58379.801195869324,
+      "holders": 905,
+      "change24h": 3.4413,
+      "priceUsd": 5.8397183326124955e-05
     },
     {
-      "rank": 10,
+      "rank": 9,
       "symbol": "UranusCoin",
       "name": "UranusCoin",
       "address": "0xceb8c0480a34375691a3ac54e18d88a9f26b7777",
       "network": 56,
-      "marketCapUsd": 53466.32337915204,
-      "holders": 364,
-      "change24h": 434.8035,
-      "priceUsd": 5.3468301706315174e-05
+      "marketCapUsd": 88313.54744033079,
+      "holders": 466,
+      "change24h": 629.5252,
+      "priceUsd": 8.83168151624918e-05
     },
     {
-      "rank": 11,
-      "symbol": "HAGI",
-      "name": "hagi",
-      "address": "0x4643d8eaa4adc2ce361331b831ea6335742a29a1",
-      "network": 4663,
-      "marketCapUsd": 41564.831225227186,
-      "holders": 262,
-      "change24h": 1329.2425,
-      "priceUsd": 4.1646041005187304e-05
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "symbol": "PAIR",
       "name": "Paircoin",
       "address": "32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump",
       "network": 1399811149,
-      "marketCapUsd": 58540.91028625573,
-      "holders": 3206,
-      "change24h": 2918.2556,
-      "priceUsd": 6.125783591228754e-05
+      "marketCapUsd": 48551.87879889469,
+      "holders": 3196,
+      "change24h": 2147.2593,
+      "priceUsd": 5.0805206310470436e-05
     },
     {
-      "rank": 13,
+      "rank": 11,
       "symbol": "REP",
       "name": "Replicants",
       "address": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump",
       "network": 1399811149,
-      "marketCapUsd": 44815.091398663455,
-      "holders": 117,
-      "change24h": 1024.464,
-      "priceUsd": 4.4815091398663456e-05
+      "marketCapUsd": 45724.837131037726,
+      "holders": 118,
+      "change24h": 1047.1831,
+      "priceUsd": 4.5724837131037726e-05
     },
     {
-      "rank": 14,
+      "rank": 12,
       "symbol": "duk",
       "name": "duk",
       "address": "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump",
       "network": 1399811149,
-      "marketCapUsd": 105098.15642868917,
-      "holders": 755,
-      "change24h": 5209.8513,
-      "priceUsd": 0.00010973382911379517
+      "marketCapUsd": 130111.59034191143,
+      "holders": 776,
+      "change24h": 6028.3945,
+      "priceUsd": 0.00013585060223777944
     },
     {
-      "rank": 15,
+      "rank": 13,
       "symbol": "SpaceXCoin",
       "name": "SpaceXCoin",
       "address": "0xdde27483de8c958e4d2657d64eb7551717457777",
       "network": 56,
-      "marketCapUsd": 1169454.0465787177,
-      "holders": 3930,
-      "change24h": 18435.2278,
-      "priceUsd": 0.0011694540465787176
+      "marketCapUsd": 2413956.03199489,
+      "holders": 4829,
+      "change24h": 39896.9173,
+      "priceUsd": 0.0024139560319971294
     },
     {
-      "rank": 16,
+      "rank": 14,
       "symbol": "Elonmas",
       "name": "Elonmas",
       "address": "6B5X3keXJ4J8LLvswa2mbqMhrRDbt85Jo88sbB6apump",
       "network": 1399811149,
-      "marketCapUsd": 53182.589733068555,
-      "holders": 1890,
-      "change24h": 2267.4723,
-      "priceUsd": 5.551416264294335e-05
+      "marketCapUsd": 59689.82066269138,
+      "holders": 1874,
+      "change24h": 2636.2567,
+      "priceUsd": 6.23066764711606e-05
     },
     {
-      "rank": 17,
+      "rank": 15,
       "symbol": "SPACEXLIFE",
       "name": "SpaceXLife",
       "address": "0xfb8b99ff90a33a6d81b0212f0ac80e9339e17777",
       "network": 56,
-      "marketCapUsd": 65406.33735899898,
-      "holders": 842,
-      "change24h": 1698.2696,
-      "priceUsd": 6.540633735899898e-05
+      "marketCapUsd": 80239.5424889069,
+      "holders": 846,
+      "change24h": 1678.2399,
+      "priceUsd": 8.02395424889069e-05
     },
     {
-      "rank": 18,
+      "rank": 16,
       "symbol": "SVAG",
       "name": "Sovereign Agent",
       "address": "0x0aecf5f2f482ad8d8fe41690f4532486e742d1c3",
       "network": 8453,
-      "marketCapUsd": 152707.98030574623,
+      "marketCapUsd": 154229.8232252235,
       "holders": 213,
-      "change24h": 96.1426,
-      "priceUsd": 1.5270798030574626e-06
-    },
-    {
-      "rank": 19,
-      "symbol": "黄大仙",
-      "name": "玄铁算力坊主",
-      "address": "0xa3dfecd6298d37f98ca17e19bdff902d2bbf7777",
-      "network": 56,
-      "marketCapUsd": 32735.134102560765,
-      "holders": 407,
-      "change24h": 903.2016,
-      "priceUsd": 3.2735134102560766e-05
+      "change24h": 98.0233,
+      "priceUsd": 1.5422982322522352e-06
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
