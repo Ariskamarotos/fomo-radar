@@ -1,20 +1,20 @@
 {
-  "polledAt": "2026-11-28T09:15:28.091537Z",
-  "capturedAt": "2026-11-28T09:14:42.750Z",
+  "polledAt": "2026-11-28T10:15:24.900237Z",
+  "capturedAt": "2026-11-28T10:13:09.441Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 17,
+  "count": 13,
   "tokens": [
     {
       "rank": 1,
-      "symbol": "RALLY",
-      "name": "Rally",
-      "address": "CgFd8qqLXgN92GgPnCeTRofMZnd6cm6A8Uzo3gVRERLY",
+      "symbol": "Zhaki",
+      "name": "Baboon Smirk",
+      "address": "AzLcYfPej8Zurkx5sJaFBu3QUPNbrDbaV6QA3YbQpump",
       "network": 1399811149,
-      "marketCapUsd": 43347.721281174105,
-      "holders": 453,
-      "change24h": 56.0363,
-      "priceUsd": 4.334772128117415e-05
+      "marketCapUsd": 31769.61857623412,
+      "holders": 1995,
+      "change24h": 1262.2328,
+      "priceUsd": 3.176961857623412e-05
     },
     {
       "rank": 2,
@@ -22,175 +22,131 @@
       "name": "Robinhood",
       "address": "4nQLJ8aFXW3tTwnrstXrVqzbDH5u9eTaqc5F2Baypump",
       "network": 1399811149,
-      "marketCapUsd": 33825.226189551446,
-      "holders": 1315,
-      "change24h": 1419.9732,
-      "priceUsd": 3.3825226189551446e-05
+      "marketCapUsd": 130633.63067846626,
+      "holders": 2318,
+      "change24h": 5610.8298,
+      "priceUsd": 0.0001356397267540938
     },
     {
       "rank": 3,
-      "symbol": "MoonBoy",
-      "name": "MoonBoy",
-      "address": "4xqhZKtWUq9TRSw2aX445DQh3fH7FcFo6jrZCqvppump",
-      "network": 1399811149,
-      "marketCapUsd": 47650.232956962194,
-      "holders": 2663,
-      "change24h": 1887.9053,
-      "priceUsd": 4.765023295696219e-05
-    },
-    {
-      "rank": 4,
-      "symbol": "NVIDIA",
-      "name": "NVIDIA Newsroom",
-      "address": "CtvgHuV7MhwypXUg1BfsqSHxvQ7rZdDyS1SiMuempump",
-      "network": 1399811149,
-      "marketCapUsd": 58796.80748908636,
-      "holders": 2248,
-      "change24h": 2245.4624,
-      "priceUsd": 5.8796807489086356e-05
-    },
-    {
-      "rank": 5,
-      "symbol": "生まれ変わる",
-      "name": "Rebirth",
-      "address": "0x7bb2ddefb855fd5f362f86b4bdaaa1e61b937777",
-      "network": 56,
-      "marketCapUsd": 30351.829225747835,
-      "holders": 258,
-      "change24h": 708.6523,
-      "priceUsd": 3.0351829225747835e-05
-    },
-    {
-      "rank": 6,
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "address": "3q9ZG22JGx7PgtcJScRPWAbEtyGsLwmhYSHd49zapump",
-      "network": 1399811149,
-      "marketCapUsd": 115676.77302546875,
-      "holders": 2773,
-      "change24h": 3525.7275,
-      "priceUsd": 0.00011567677302546875
-    },
-    {
-      "rank": 7,
-      "symbol": "FINGART",
-      "name": "FINGART",
-      "address": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump",
-      "network": 1399811149,
-      "marketCapUsd": 71690.96153049459,
-      "holders": 1477,
-      "change24h": 4062.8927,
-      "priceUsd": 7.169096153049459e-05
-    },
-    {
-      "rank": 8,
       "symbol": "SPSC",
       "name": "Shit Piss Skin Can",
       "address": "EjdrRG2si1FQ3Bme5g6WSYNHJDrsKUrbGB4Z5xaopump",
       "network": 1399811149,
-      "marketCapUsd": 107925.68112157578,
-      "holders": 689,
-      "change24h": 5312.9797,
-      "priceUsd": 0.00011159689780752163
+      "marketCapUsd": 103763.61072177811,
+      "holders": 714,
+      "change24h": 5155.1163,
+      "priceUsd": 0.00010729324977632957
     },
     {
-      "rank": 9,
+      "rank": 4,
       "symbol": "WLFI",
       "name": "We Literally Fuck Investors",
       "address": "HmGQsYJyeiWrV6jABUY2Cb3bEmVxwk6LzVxCchsCpump",
       "network": 1399811149,
-      "marketCapUsd": 257323.4660770971,
-      "holders": 2359,
-      "change24h": 10763.4834,
-      "priceUsd": 0.00026463405468830925
+      "marketCapUsd": 260733.4400223578,
+      "holders": 2299,
+      "change24h": 9251.736,
+      "priceUsd": 0.00026814090637685854
     },
     {
-      "rank": 10,
+      "rank": 5,
+      "symbol": "火龙果🔥",
+      "name": "火龙果",
+      "address": "0xb2579e37896fbf2b48d250b5ef64a72fdb6d7777",
+      "network": 56,
+      "marketCapUsd": 38535.43205531529,
+      "holders": 453,
+      "change24h": 886.8353,
+      "priceUsd": 3.85771946207811e-05
+    },
+    {
+      "rank": 6,
+      "symbol": "Midcurve",
+      "name": "Midcurve",
+      "address": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump",
+      "network": 1399811149,
+      "marketCapUsd": 35955.57150229026,
+      "holders": 483,
+      "change24h": 1527.8884,
+      "priceUsd": 3.710381060107521e-05
+    },
+    {
+      "rank": 7,
       "symbol": "Vicewire",
       "name": "Vicewire",
       "address": "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6",
       "network": 1399811149,
-      "marketCapUsd": 76657.40926964078,
-      "holders": 970,
-      "change24h": 3568.9975,
-      "priceUsd": 7.91325502605152e-05
+      "marketCapUsd": 92837.06941252429,
+      "holders": 1105,
+      "change24h": 4263.3781,
+      "priceUsd": 9.583463016953615e-05
     },
     {
-      "rank": 11,
+      "rank": 8,
       "symbol": "STEADY",
       "name": "Steady",
       "address": "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT",
       "network": 1399811149,
-      "marketCapUsd": 78604.50695115802,
-      "holders": 1074,
-      "change24h": 273.6668,
-      "priceUsd": 8.26020629917733e-05
+      "marketCapUsd": 55268.157344826046,
+      "holders": 1052,
+      "change24h": 196.6087,
+      "priceUsd": 5.807890656032291e-05
     },
     {
-      "rank": 12,
-      "symbol": "OPTRA",
-      "name": "Optra Agent",
-      "address": "0xc46f6a8149d5a400a230d3cdfc7a3a9abf3150fc",
-      "network": 4663,
-      "marketCapUsd": 88370.7892624657,
-      "holders": 313,
-      "change24h": 2989.1721,
-      "priceUsd": 8.997209962894093e-05
-    },
-    {
-      "rank": 13,
+      "rank": 9,
       "symbol": "MoonBoy",
       "name": "MoonBoy",
       "address": "GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump",
       "network": 1399811149,
-      "marketCapUsd": 451855.6197435237,
-      "holders": 4728,
-      "change24h": 15844.8585,
-      "priceUsd": 0.0004647847431408896
+      "marketCapUsd": 538117.3144544006,
+      "holders": 4826,
+      "change24h": 18680.7021,
+      "priceUsd": 0.0005535146778086268
     },
     {
-      "rank": 14,
+      "rank": 10,
       "symbol": "Fullball",
       "name": "Fullball",
       "address": "GdDpHWwrRLDHR2soP75sEtqzDzY1rkATuVszAHv5pump",
       "network": 1399811149,
-      "marketCapUsd": 40237.15905840076,
-      "holders": 11317,
-      "change24h": 1721.4325,
-      "priceUsd": 4.2966289455330244e-05
+      "marketCapUsd": 37231.11681874863,
+      "holders": 11209,
+      "change24h": 1771.2251,
+      "priceUsd": 3.9756359032648565e-05
     },
     {
-      "rank": 15,
+      "rank": 11,
       "symbol": "Split",
       "name": "Split",
       "address": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump",
       "network": 1399811149,
-      "marketCapUsd": 122904.6415689538,
-      "holders": 17814,
-      "change24h": 6333.7451,
-      "priceUsd": 0.00013016004564939725
+      "marketCapUsd": 124695.9771418095,
+      "holders": 17849,
+      "change24h": 6782.0412,
+      "priceUsd": 0.00013205712876163657
     },
     {
-      "rank": 16,
+      "rank": 12,
       "symbol": "Zhaki",
       "name": "Baboon Smirk",
       "address": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump",
       "network": 1399811149,
-      "marketCapUsd": 267951.6604209982,
-      "holders": 1284,
-      "change24h": 12118.4065,
-      "priceUsd": 0.0002794917903460148
+      "marketCapUsd": 238936.27516900294,
+      "holders": 1280,
+      "change24h": 11380.4281,
+      "priceUsd": 0.000249226771801558
     },
     {
-      "rank": 17,
+      "rank": 13,
       "symbol": "雪球2027",
       "name": "雪球2027",
       "address": "0xf78c7ab3082b6b82db47bd2517478ff404f37777",
       "network": 56,
-      "marketCapUsd": 568360.353680064,
-      "holders": 1245,
-      "change24h": 127.689,
-      "priceUsd": 0.0005683603536800639
+      "marketCapUsd": 569915.88499904,
+      "holders": 1278,
+      "change24h": 130.7224,
+      "priceUsd": 0.00056991588499904
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
