@@ -1,9 +1,9 @@
 {
-  "polledAt": "2026-11-28T10:15:24.900237Z",
-  "capturedAt": "2026-11-28T10:13:09.441Z",
+  "polledAt": "2026-11-28T11:15:28.619689Z",
+  "capturedAt": "2026-11-28T11:11:20.981Z",
   "source": "live-fomo",
   "stale": false,
-  "count": 13,
+  "count": 10,
   "tokens": [
     {
       "rank": 1,
@@ -11,142 +11,109 @@
       "name": "Baboon Smirk",
       "address": "AzLcYfPej8Zurkx5sJaFBu3QUPNbrDbaV6QA3YbQpump",
       "network": 1399811149,
-      "marketCapUsd": 31769.61857623412,
-      "holders": 1995,
-      "change24h": 1262.2328,
-      "priceUsd": 3.176961857623412e-05
+      "marketCapUsd": 91526.23148166301,
+      "holders": 1994,
+      "change24h": 2716.2799,
+      "priceUsd": 9.152623148166301e-05
     },
     {
       "rank": 2,
-      "symbol": "Robinhood",
-      "name": "Robinhood",
-      "address": "4nQLJ8aFXW3tTwnrstXrVqzbDH5u9eTaqc5F2Baypump",
-      "network": 1399811149,
-      "marketCapUsd": 130633.63067846626,
-      "holders": 2318,
-      "change24h": 5610.8298,
-      "priceUsd": 0.0001356397267540938
-    },
-    {
-      "rank": 3,
       "symbol": "SPSC",
       "name": "Shit Piss Skin Can",
       "address": "EjdrRG2si1FQ3Bme5g6WSYNHJDrsKUrbGB4Z5xaopump",
       "network": 1399811149,
-      "marketCapUsd": 103763.61072177811,
-      "holders": 714,
-      "change24h": 5155.1163,
-      "priceUsd": 0.00010729324977632957
+      "marketCapUsd": 146504.24949382944,
+      "holders": 753,
+      "change24h": 7418.9355,
+      "priceUsd": 0.00015148776073706957
     },
     {
-      "rank": 4,
+      "rank": 3,
       "symbol": "WLFI",
       "name": "We Literally Fuck Investors",
       "address": "HmGQsYJyeiWrV6jABUY2Cb3bEmVxwk6LzVxCchsCpump",
       "network": 1399811149,
-      "marketCapUsd": 260733.4400223578,
-      "holders": 2299,
-      "change24h": 9251.736,
-      "priceUsd": 0.00026814090637685854
+      "marketCapUsd": 271181.87360507046,
+      "holders": 2499,
+      "change24h": 11551.0985,
+      "priceUsd": 0.0002788861811596184
     },
     {
-      "rank": 5,
+      "rank": 4,
       "symbol": "火龙果🔥",
       "name": "火龙果",
       "address": "0xb2579e37896fbf2b48d250b5ef64a72fdb6d7777",
       "network": 56,
-      "marketCapUsd": 38535.43205531529,
-      "holders": 453,
-      "change24h": 886.8353,
-      "priceUsd": 3.85771946207811e-05
+      "marketCapUsd": 32462.95774846237,
+      "holders": 441,
+      "change24h": 771.1088,
+      "priceUsd": 3.2498139302836484e-05
     },
     {
-      "rank": 6,
-      "symbol": "Midcurve",
-      "name": "Midcurve",
-      "address": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump",
-      "network": 1399811149,
-      "marketCapUsd": 35955.57150229026,
-      "holders": 483,
-      "change24h": 1527.8884,
-      "priceUsd": 3.710381060107521e-05
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "symbol": "Vicewire",
       "name": "Vicewire",
       "address": "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6",
       "network": 1399811149,
-      "marketCapUsd": 92837.06941252429,
-      "holders": 1105,
-      "change24h": 4263.3781,
-      "priceUsd": 9.583463016953615e-05
+      "marketCapUsd": 140793.79947638133,
+      "holders": 1121,
+      "change24h": 6636.7626,
+      "priceUsd": 0.000145339806484268
     },
     {
-      "rank": 8,
+      "rank": 6,
       "symbol": "STEADY",
       "name": "Steady",
       "address": "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT",
       "network": 1399811149,
-      "marketCapUsd": 55268.157344826046,
-      "holders": 1052,
-      "change24h": 196.6087,
-      "priceUsd": 5.807890656032291e-05
+      "marketCapUsd": 78210.18617318463,
+      "holders": 1038,
+      "change24h": 306.4106,
+      "priceUsd": 8.218768840939266e-05
     },
     {
-      "rank": 9,
+      "rank": 7,
       "symbol": "MoonBoy",
       "name": "MoonBoy",
       "address": "GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump",
       "network": 1399811149,
-      "marketCapUsd": 538117.3144544006,
-      "holders": 4826,
-      "change24h": 18680.7021,
-      "priceUsd": 0.0005535146778086268
+      "marketCapUsd": 715284.1924924798,
+      "holders": 5076,
+      "change24h": 23563.0894,
+      "priceUsd": 0.0007357559417768592
     },
     {
-      "rank": 10,
+      "rank": 8,
       "symbol": "Fullball",
       "name": "Fullball",
       "address": "GdDpHWwrRLDHR2soP75sEtqzDzY1rkATuVszAHv5pump",
       "network": 1399811149,
-      "marketCapUsd": 37231.11681874863,
-      "holders": 11209,
-      "change24h": 1771.2251,
-      "priceUsd": 3.9756359032648565e-05
+      "marketCapUsd": 32594.034098154625,
+      "holders": 11203,
+      "change24h": 1537.7281,
+      "priceUsd": 3.480476098090303e-05
     },
     {
-      "rank": 11,
+      "rank": 9,
       "symbol": "Split",
       "name": "Split",
       "address": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump",
       "network": 1399811149,
-      "marketCapUsd": 124695.9771418095,
-      "holders": 17849,
-      "change24h": 6782.0412,
-      "priceUsd": 0.00013205712876163657
+      "marketCapUsd": 118595.77971344574,
+      "holders": 17921,
+      "change24h": 5810.6965,
+      "priceUsd": 0.00012559681965035942
     },
     {
-      "rank": 12,
+      "rank": 10,
       "symbol": "Zhaki",
       "name": "Baboon Smirk",
       "address": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump",
       "network": 1399811149,
-      "marketCapUsd": 238936.27516900294,
-      "holders": 1280,
-      "change24h": 11380.4281,
-      "priceUsd": 0.000249226771801558
-    },
-    {
-      "rank": 13,
-      "symbol": "雪球2027",
-      "name": "雪球2027",
-      "address": "0xf78c7ab3082b6b82db47bd2517478ff404f37777",
-      "network": 56,
-      "marketCapUsd": 569915.88499904,
-      "holders": 1278,
-      "change24h": 130.7224,
-      "priceUsd": 0.00056991588499904
+      "marketCapUsd": 233292.455671765,
+      "holders": 1253,
+      "change24h": 9908.9206,
+      "priceUsd": 0.00024333988454288452
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
