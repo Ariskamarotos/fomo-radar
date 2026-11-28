@@ -1,196 +1,196 @@
 {
-  "polledAt": "2026-11-27T23:15:22.858097Z",
-  "capturedAt": "2026-11-27T23:14:53.644Z",
+  "polledAt": "2026-11-28T00:15:22.870979Z",
+  "capturedAt": "2026-11-28T00:14:31.519Z",
   "source": "live-fomo",
   "stale": false,
   "count": 19,
   "tokens": [
     {
       "rank": 1,
+      "symbol": "aurbit",
+      "name": "aurbit",
+      "address": "4qFwbK9Usb7h12BKzjf8edSEbX8oxLhpKJVHLRWnpump",
+      "network": 1399811149,
+      "marketCapUsd": 216634.95914459613,
+      "holders": 791,
+      "change24h": 646.6246,
+      "priceUsd": 0.00021663495914459613
+    },
+    {
+      "rank": 2,
+      "symbol": "STEADY",
+      "name": "Steady",
+      "address": "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT",
+      "network": 1399811149,
+      "marketCapUsd": 162397.90848836824,
+      "holders": 947,
+      "change24h": 639.3092,
+      "priceUsd": 0.0001630048498636966
+    },
+    {
+      "rank": 3,
+      "symbol": "Goldenu",
+      "name": "Goldenu",
+      "address": "GarXkFtt2CSW1E9i7dxKzcasnvP38qwFxyafPzqopump",
+      "network": 1399811149,
+      "marketCapUsd": 38386.03090270343,
+      "holders": 263,
+      "change24h": 2174.5639,
+      "priceUsd": 4.011657966913225e-05
+    },
+    {
+      "rank": 4,
       "symbol": "Xbot",
       "name": "China GROK",
       "address": "0x0c3656f0501e565e532c0bfa751662bf27c87777",
       "network": 56,
-      "marketCapUsd": 49661.31201912091,
-      "holders": 1055,
-      "change24h": 839.9272,
-      "priceUsd": 4.9661312019120906e-05
+      "marketCapUsd": 41287.90541955029,
+      "holders": 1861,
+      "change24h": 786.3986,
+      "priceUsd": 4.128790541955029e-05
     },
     {
-      "rank": 2,
-      "symbol": "SPEC",
-      "name": "Spectre",
-      "address": "6DmC5KR6DF62Gfz5oe8uVkNFrQb5N3kdXpKswA7pump",
+      "rank": 5,
+      "symbol": "Maebashi",
+      "name": "前橋ママ",
+      "address": "659ziXQiNko5cdGzPaBKVu81ahHzZMTFKBcNxe5ALXkG",
       "network": 1399811149,
-      "marketCapUsd": 133567.077858459,
-      "holders": 1020,
-      "change24h": 6053.2979,
-      "priceUsd": 0.0001382836556520985
+      "marketCapUsd": 32388.26531349607,
+      "holders": 313,
+      "change24h": 1395.8128,
+      "priceUsd": 3.23882653134961e-05
     },
     {
-      "rank": 3,
+      "rank": 6,
       "symbol": "Hyperball",
       "name": "Hyperball",
       "address": "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump",
       "network": 1399811149,
-      "marketCapUsd": 39308.57715138304,
-      "holders": 688,
-      "change24h": 1035.8759,
-      "priceUsd": 4.017143555572918e-05
+      "marketCapUsd": 32919.352127737664,
+      "holders": 528,
+      "change24h": 806.1074,
+      "priceUsd": 3.364196133182199e-05
     },
     {
-      "rank": 4,
-      "symbol": "STEADY",
-      "name": "Steady Pad",
-      "address": "AQ1VAV8JM1UuwCtgH6GPMDeDdujudfh697KP5XeV8vdY",
-      "network": 1399811149,
-      "marketCapUsd": 37699.33110618885,
-      "holders": 560,
-      "change24h": 73.5368,
-      "priceUsd": 3.7854285082985905e-05
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "symbol": "OPTRA",
       "name": "Optra Agent",
       "address": "0xc46f6a8149d5a400a230d3cdfc7a3a9abf3150fc",
       "network": 4663,
-      "marketCapUsd": 40139.91669911664,
-      "holders": 190,
-      "change24h": 1060.458,
-      "priceUsd": 4.086726637264783e-05
+      "marketCapUsd": 51549.91058453938,
+      "holders": 228,
+      "change24h": 1388.7549,
+      "priceUsd": 5.2484013435705776e-05
     },
     {
-      "rank": 6,
+      "rank": 8,
       "symbol": "Sol",
       "name": "Solana",
       "address": "Xb6V46U9hHHxiJnoAFxiEqEh59owzdt1ZL9q5zpVSoL",
       "network": 1399811149,
-      "marketCapUsd": 96311.13165425636,
-      "holders": 1701,
-      "change24h": 1388.9346,
-      "priceUsd": 9.815074260148446e-05
+      "marketCapUsd": 36170.913507036836,
+      "holders": 1545,
+      "change24h": 906.9236,
+      "priceUsd": 3.686193520704516e-05
     },
     {
-      "rank": 7,
-      "symbol": "2",
-      "name": "2 shares and a dream",
-      "address": "0x2c8237f1f2a5dcd9e398cc87f1577c12afe1bc30",
-      "network": 4663,
-      "marketCapUsd": 59028.54784840078,
-      "holders": 458,
-      "change24h": 1087.3749,
-      "priceUsd": 5.9028547848400784e-05
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "symbol": "MoonBoy",
       "name": "MoonBoy",
       "address": "GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump",
       "network": 1399811149,
-      "marketCapUsd": 289932.83872642333,
-      "holders": 3406,
-      "change24h": 9322.8093,
-      "priceUsd": 0.0002982218305656331
+      "marketCapUsd": 456960.62356209906,
+      "holders": 3840,
+      "change24h": 13527.2207,
+      "priceUsd": 0.0004700349755818162
     },
     {
-      "rank": 9,
+      "rank": 10,
       "symbol": "Fullball",
       "name": "Fullball",
       "address": "GdDpHWwrRLDHR2soP75sEtqzDzY1rkATuVszAHv5pump",
       "network": 1399811149,
-      "marketCapUsd": 74907.17832384506,
-      "holders": 10322,
-      "change24h": 3659.5471,
-      "priceUsd": 7.957134673128754e-05
+      "marketCapUsd": 47285.241459454526,
+      "holders": 9981,
+      "change24h": 2730.0466,
+      "priceUsd": 5.0283262796467726e-05
     },
     {
-      "rank": 10,
+      "rank": 11,
       "symbol": "rice",
       "name": "1 grain of rice",
       "address": "6J3m4E2AvckGpMypHoBmT9JdPA6QZJ66X9AfzYwWZttc",
       "network": 1399811149,
-      "marketCapUsd": 33022.94353409035,
-      "holders": 942,
-      "change24h": 1338.8789,
-      "priceUsd": 3.3023077303496854e-05
+      "marketCapUsd": 37160.164883163845,
+      "holders": 878,
+      "change24h": 1637.2989,
+      "priceUsd": 3.7160315411634965e-05
     },
     {
-      "rank": 11,
+      "rank": 12,
       "symbol": "Split",
       "name": "Split",
       "address": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump",
       "network": 1399811149,
-      "marketCapUsd": 116159.34035284414,
-      "holders": 17580,
-      "change24h": 6230.9372,
-      "priceUsd": 0.00012209322585415874
+      "marketCapUsd": 110259.91980359833,
+      "holders": 16518,
+      "change24h": 5996.365,
+      "priceUsd": 0.00011589243921625409
     },
     {
-      "rank": 12,
+      "rank": 13,
       "symbol": "Zhaki",
       "name": "Baboon Smirk",
       "address": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump",
       "network": 1399811149,
-      "marketCapUsd": 95856.54494967846,
-      "holders": 1007,
-      "change24h": 4627.5151,
-      "priceUsd": 9.998479568668878e-05
+      "marketCapUsd": 121024.10709050387,
+      "holders": 1069,
+      "change24h": 4546.9182,
+      "priceUsd": 0.0001262362484164266
     },
     {
-      "rank": 13,
+      "rank": 14,
       "symbol": "POLO",
       "name": "Just A Polo",
       "address": "0x069dc187b57a008ffc2f9a9c0db68e1ff0e57777",
       "network": 56,
-      "marketCapUsd": 50024.29456271164,
-      "holders": 580,
-      "change24h": 1184.0492,
-      "priceUsd": 5.0024294562711646e-05
+      "marketCapUsd": 44731.997241051184,
+      "holders": 577,
+      "change24h": 1150.1596,
+      "priceUsd": 4.473199724105119e-05
     },
     {
-      "rank": 14,
+      "rank": 15,
       "symbol": "雪球2027",
       "name": "雪球2027",
       "address": "0xf78c7ab3082b6b82db47bd2517478ff404f37777",
       "network": 56,
-      "marketCapUsd": 452999.25820647075,
-      "holders": 1194,
-      "change24h": 82.1608,
-      "priceUsd": 0.00045299925820647074
+      "marketCapUsd": 406527.5069785853,
+      "holders": 1215,
+      "change24h": 55.3422,
+      "priceUsd": 0.0004065275069785853
     },
     {
-      "rank": 15,
+      "rank": 16,
       "symbol": "Suki",
       "name": "Sukicoin",
       "address": "0x4ef8e98a5b3ae1b3928521048efd04057d3d7777",
       "network": 56,
-      "marketCapUsd": 67591.44260002616,
-      "holders": 330,
-      "change24h": 1699.7045,
-      "priceUsd": 6.759144260002617e-05
+      "marketCapUsd": 43203.85232102074,
+      "holders": 297,
+      "change24h": 1240.0401,
+      "priceUsd": 4.320385232102074e-05
     },
     {
-      "rank": 16,
+      "rank": 17,
       "symbol": "USFF",
       "name": "USFF",
       "address": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
       "network": 1399811149,
-      "marketCapUsd": 2144490.056519635,
-      "holders": 437,
-      "change24h": 51783.961,
-      "priceUsd": 0.0021499770861707827
-    },
-    {
-      "rank": 17,
-      "symbol": "NIW",
-      "name": "Nigga Its Wasted",
-      "address": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump",
-      "network": 1399811149,
-      "marketCapUsd": 55271.513724768825,
-      "holders": 241,
-      "change24h": 2913.5446,
-      "priceUsd": 5.674448360071812e-05
+      "marketCapUsd": 2330504.851497932,
+      "holders": 463,
+      "change24h": 54220.9787,
+      "priceUsd": 0.0023364678305210504
     },
     {
       "rank": 18,
@@ -198,10 +198,10 @@
       "name": "キボウ",
       "address": "7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump",
       "network": 1399811149,
-      "marketCapUsd": 73534.47422057064,
-      "holders": 1301,
-      "change24h": 2899.3259,
-      "priceUsd": 7.56014408825945e-05
+      "marketCapUsd": 76194.80004246761,
+      "holders": 1306,
+      "change24h": 2817.8641,
+      "priceUsd": 7.833654530109214e-05
     },
     {
       "rank": 19,
@@ -209,10 +209,10 @@
       "name": "ni hao cat",
       "address": "0xebe0f167b6bbac37f68ab7b9930b30799f487777",
       "network": 56,
-      "marketCapUsd": 94175.86686375597,
-      "holders": 1139,
-      "change24h": 2374.283,
-      "priceUsd": 9.417586686375597e-05
+      "marketCapUsd": 60084.881365143825,
+      "holders": 1113,
+      "change24h": 1555.6858,
+      "priceUsd": 6.008488136514383e-05
     }
   ],
   "warning": "Narrative discovery candidates only; no security verification or buy recommendation."
